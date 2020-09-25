@@ -1,0 +1,8 @@
+cTAKES results
+Number of true positives = 101127
+Number of positive labels = 106284
+Number of positive predictions = 185966
+
+Precision = 0.5437929513997183
+Recall = 0.9514790561138083
+F-Measure = 0.6920581693755347

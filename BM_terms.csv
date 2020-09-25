@@ -1,0 +1,838 @@
+CUI,TEXT,TYPE
+C0004352,Autism,New
+C1510586,Autism Spectrum Disorder,New
+C0004352,Autistic,New
+C1510586,ASD,New
+C1510586,ASDs,New
+C0236792,Asperger,New
+C0236792,Asperger's,Asperger's
+C1837434,"ASPERGER SYNDROME, SUSCEPTIBILITY TO, 3",Asperger's
+C1837646,"ASPERGER SYNDROME, SUSCEPTIBILITY TO, 1",Asperger's
+C1837697,"ASPERGER SYNDROME, SUSCEPTIBILITY TO, 2",Asperger's
+C1864961,"ASPERGER SYNDROME, SUSCEPTIBILITY TO, 4",Asperger's
+C1845334,"ASPERGER SYNDROME, X-LINKED, SUSCEPTIBILITY TO, 2 (finding)",Asperger's
+C1845341,"ASPERGER SYNDROME, X-LINKED, SUSCEPTIBILITY TO, 1 (disorder)",Asperger's
+C3151708,"ASPERGER SYNDROME, SUSCEPTIBILITY TO, X-LINKED 1",Asperger's
+C3151722,"ASPERGER SYNDROME, SUSCEPTIBILITY TO, X-LINKED 2",Asperger's
+C0004352,Autistic Disorder,Autism
+C0175842,Autistic Children,Autism
+C0233639,Autistic thinking,Autism
+C0856975,Autistic behavior,Autism
+C1306579,psychopathy; autistic,Autism
+C1846135,Autistic features,Autism
+C0154446,"Infantile autism, current or active state",Autism
+C0338986,Atypical autism,Autism
+C1389182,mental retardation; autistic features,Autism
+C1839793,Autistic-like behavior,Autism
+C1841787,Autism or autistic-like condition,Autism
+C1846042,Autistic features (rare),Autism
+C2749029,Autistic-like features,Autism
+C3279328,Autistic features (if left untreated),Autism
+C1298684,Autistic spectrum disorder with isolated skills,Autism
+C1845866,Behavioral changes consistent with an autistic disorder,Autism
+C2062756,autistic disorder of childhood onset with full syndrome,Autism
+C2062757,autistic disorder of childhood onset with residual state,Autism
+C3148934,"MENTAL RETARDATION WITH LANGUAGE IMPAIRMENT AND AUTISTIC FEATURES, 390-KB DE",Autism
+C1510586,Autism Spectrum Disorders,Autism
+C3278858,Autism spectrum disorder (less common),Autism
+C0524528,Pervasive development disorder,PDD-NOS
+C0008074,"Child Development Disorders, Pervasive",PDD-NOS
+C0349331,Other pervasive developmental disorders,PDD-NOS
+C0851877,Pervasive developmental disorders NEC,PDD-NOS
+C1839006,Pervasive developmental disorder (CVS+),PDD-NOS
+C2062758,atypical pervasive developmental disorder,PDD-NOS
+C1456313,Other specified pervasive developmental disorders,PDD-NOS
+C2874989,Pervasive and specific developmental disorders (F80-F89),PDD-NOS
+C1445953,moderate eye contact,General
+C1445953,eye contact fair,General
+C1445953,eye contact less than optimal,General
+C1445953,eye contact is present about 1/2 of time,General
+C1445953,sometimes making poor eye contact,General
+C1445953,intermittent eye contact,General
+C1445953,made intermittent eye contact,General
+C1445953,occasional brief eye contact,General
+C1445953,inconsistent eye contact,General
+C1445953,prefers to look at people out of corner of eye,General
+C1445953,eye contact was variable,General
+C1445953,eye contact mildly diminished,General
+C1445953,eye contact moderately reduced,General
+C1445953,decreased eye contact,General
+C1445953,diminished eye contact with examiner,General
+C1445953,eye contact of marginal quality,General
+C1445953,limited eye contact,General
+C1445953,little eye contact,General
+C1445953,makes little eye contact,General
+C1445953,eye contact fleeting,General
+C1445953,looked at me only fleetingly,General
+C1445953,he only provides a fleeting eye contact,General
+C1445953,eye contact only fleetingly achieved,General
+C1445953,"eye contact difficult to obtain, tended to be fleeting",General
+C1445953,eye contact abnormal,General
+C1445953,eye contact is present only sporadically; exhibits social smile only sporadically,General
+C1445953,"eye contact was marginal, usually fleeting, typified by lack of social acknowledgment",General
+C1445953,difficult to obtain or maintain eye contact,General
+C1445953,difficult to maintain eye contact,General
+C1445953,eye contact very difficult,General
+C1445953,rarely maintained eye contact,General
+C1445953,rarely makes eye contact,General
+C1445953,rarely establishes eye contact,General
+C1445953,he did not initiate eye contact,General
+C1445953,did not initiate any eye contact,General
+C1445953,avoided eye contact,General
+C1445953,avoided direct gaze,General
+C1445953,avoiding any eye contact,General
+C1445953,assiduously avoided any eye contact,General
+C1445953,he avoided eye contact with examiner,General
+C1445953,"facial expressions constricted, and eye contact",General
+C1445953,trouble making eye contact,General
+C1445953,minimal eye contact,General
+C1445953,impairment in eye-to-eye gaze,General
+C1445953,does not make good eye contact,General
+C1445953,did not establish good eye contact,General
+C1445953,did not sustain eye contact,General
+C1445953,very little eye contact,General
+C1445953,very little eye contact with others,General
+C1445953,very limited eye contact,General
+C1445953,makes very little eye contact,General
+C1445953,makes scarce eye contact,General
+C1445953,poor eye contact,General
+C1445953,shows poor eye contact,General
+C1445953,very poor eye contact,General
+C1445953,eye contact very poor,General
+C1445953,makes very poor eye contact,General
+C1445953,eye contact is virtually nill,General
+C1445953,eye contact is observed 3 times during 45 minute interview,General
+C1445953,never looks you in the eye,General
+C1445953,does not establish eye contact,General
+C1445953,eye contact never established,General
+C1445953,lack of eye contact,General
+C1445953,he did not provide any eye contact,General
+C1445953,no eye contact with examiner,General
+C1445953,no eye contact,General
+C1445953,eye contact non-existent,General
+C0813217,flat facial expression,General
+C0813217,facial expression is lacking for any social interchange,General
+C0813217,no indication of affect in his face,General
+C0813217,expressionless face,General
+C0813217,lack of facial expression,General
+C0813217,mask-like facial expression,General
+C0813217,poverty of facial expression,General
+C0566009,non-verbal social skills are poor,General
+C0566009,abnormal non-verbal communication,General
+C0566009,"no systematic, interactive non-verbal communication",General
+C0566009,does not use body posture to communicate,General
+C0566009,does not use gestures to communicate,General
+C0566009,difficulty using non-verbal communication,General
+C2372111,will not play with others,General
+C2372111,plays alone,General
+C2372111,doesn't play with anyone,General
+C2372111,plays by himself,General
+C2372111,solitary in his play,General
+C2372111,he only plays by himself,General
+C2372111,plays for long periods by himself,General
+C2372111,prefers to play alone,General
+C2372111,likes to play by himself,General
+C2372111,most of time he plays by himself,General
+C2372111,usually plays alone,General
+C2372111,does not play with other children,General
+C2372111,does not play with others,General
+C2372111,never playing with other children,General
+C2372111,not playing interactively,General
+C2372111,inability to play with other children,General
+C2372111,won't play with other kids,General
+C2372111,zero interactive play,General
+C2372111,no clear history of interactive play with other children,General
+C2372111,does not engage in reciprocal play,General
+C2372111,doesn't play games with family members or friends,General
+C2372111,no interest in playing with others,General
+C2372111,uninterested in playing with other children,General
+C2372111,no effort to initiate play with other children,General
+C2372111,does not usually play with other children,General
+C2372111,only rarely likes to play with other children,General
+C2372111,she does engage in interactive play with other children easily,General
+C2372111,he engages in little cooperative play,General
+C2372111,little in the way of social interactive play,General
+C2372111,does not engage or play with other children normally,General
+C2372111,"difficulty playing with peers, particularly in terms of both initiating and maintaining contact",General
+C2372111,engages in no definite social play with age mates,General
+C2372111,no effort to initiate play with other children,General
+C2372111,did not participate in any turn taking activities,General
+C2372111,avoidant of mutual play,General
+C2372111,avoids play with his peers,General
+C2372111,solitary play,General
+C2372113,parallel play,General
+C2372113,parallel play only,General
+C2372113,prefers parallel play,General
+C2372113,"likes to be around children, doesn't play with them",General
+C2372113,observes other children rather than join in,General
+C2372113,mostly watches other children,General
+C2372113,"watches children, but doesn't participate",General
+C2372113,"seems to want to be in the same room as other children, but is not actively involved in their activity",General
+C1287531,interest in peers,General
+C1287531,interested in interacting with other children,General
+C1287531,interested in interacting with family or other children,General
+C1287531,shows interest in peer relations,General
+C1287531,no interest in peers,General
+C1287531,not interested in interacting with other children,General
+C1287531,uninterested in interacting with family or other children,General
+C1287531,does not show any interest in peer relations,General
+C0150080,socially isolated,General
+C0150080,"socially, he isolates himself",General
+C0150080,isolative behavior,General
+C0150080,loner,General
+C0150080,always been a loner,General
+C0150080,parents describe him as a loner,General
+C0150080,"socially, he is a loner",General
+C0150080,pretty much a loner,General
+C0150080,no friends,General
+C0150080,no friends in his peer group,General
+C0150080,prefers isolated/autonomous activities; no close friends,General
+C0150080,has made few if any friends,General
+C0150080,impaired social interaction,General
+C0150080,impaired social interactions,General
+C0150080,social communication disorder,General
+C0150080,social interaction disorder,General
+C2675043,decreased interaction with other children,General
+C2675043,does not interact much with other children,General
+C2675043,doesn't have much interaction with children,General
+C2675043,limited in interactions with other children,General
+C2675043,minimal interaction with peers,General
+C2675043,impairment of peer relationships,General
+C2675043,does not have good peer relationships,General
+C2675043,history of failure to develop peer relationships,General
+C2675043,does not mix with other children,General
+C2675043,has great difficulty interacting with other children,General
+C2675043,does not engage or play with other children normally,General
+C2675043,lacks socialization skills with other children,General
+C2675043,very limited in the quality of social interaction with other children,General
+C2675043,poor social skills or interest in social interaction with peers,General
+C2675043,"has friends, but is socially inept",General
+C2675043,differently interacting with other children,General
+C2675043,continues to manifest atypicalities in interactional style and language pattern,General
+C2675043,limited social interaction,General
+C2675043,very little interaction with people around him,General
+C2675043,his interactions with others tends to be quite limited,General
+C2675043,limited interaction with other individuals,General
+C2675043,lost any interest in playing interactive games,General
+C2675043,very little in the way of social responsiveness or rapport,General
+C2675043,restricted ability to initiate contact,General
+C2675043,not socially connected to parents,General
+C2675043,consistent lack of social reciprocity,General
+C2675043,"withdrawn, passive behavior",General
+C2675043,"peculiar, avoidant, disengaged",General
+C2675043,social withdrawal,General
+C2675043,not engaging socially,General
+C2675043,cannot be engaged,General
+C2675043,not really connected socially,General
+C2675043,no social responsiveness,General
+C2675043,refused efforts to interact,General
+C2675043,no attempt to interact with examiner,General
+C2675043,not attending to social approaches from adults,General
+C2675043,"he will resist being held, hugged or shown physical affection",General
+C2675043,totally unresponsive to efforts to engage him interpersonally,General
+C2675043,did not actively engage with this examiner,General
+C2675043,difficulty with social interaction,General
+C2675043,disregards all attempts to interact with him,General
+C2675043,could not be engaged in social interaction,General
+C2675043,socially disconnected,General
+C2675043,relatively poor social interaction,General
+C2675043,will not interact in a socially meaningful manner,General
+C2675043,general disregard in social interaction,General
+C2675043,minimal interaction with examiner,General
+C2675043,clear-cut abnormalities in area of social interaction,General
+C2675043,pays little attention to family or examiner,General
+C2675043,decreased social interactions,General
+C2675043,limited interaction with other individuals,General
+C2675043,his interactions with others tends to be quite limited,General
+C2675043,"social interaction limited, particularly in group setting",General
+C2675043,severe delay in socializations,General
+C2675043,little social interaction with others,General
+C2675043,social disconnectedness,General
+C2675043,social interaction very limited,General
+C2675043,social interaction clearly disturbed,General
+C2675043,marked impairment of interpersonal relations,General
+C2675043,problems with reciprocal social interactions,General
+C2675043,difficulty establishing close relationships,General
+C2675043,"lacks social skills (poor, impaired, limited)",General
+C2675043,"resists being held, hugged or shown physical affection",General
+C2675043,atypical child with whom to interact,General
+C2372078,has to be drawn into interactions with other children,General
+C2372078,peer interactions are directed by other children,General
+C2372078,does not seek out contact with other children,General
+C2372078,did not initiate any contact,General
+C2372078,she is not seeking social interactions,General
+C2372078,she certainly does not seek out attention,General
+C2372078,no spontaneous social interaction,General
+C2372078,he does not spontaneously seek to share interests or achievements with other people,General
+C2372078,did not show any evidence of initiating an interaction,General
+C2372078,initiates only limited social exchanges,General
+C2372078,initiates little in the way of contact with friends,General
+C2372078,initiates very little in the way of play behavior,General
+C2372078,does not initiate any social behavior with family or individuals,General
+C2372078,still not able to initiate a social interaction,General
+C2372078,not spontaneously engaging in other children,General
+C2372078,no voluntary interaction with therapist,General
+C2372078,"did not initiate any interaction, verbal or nonverbal",General
+C2372078,enters into interactions with other children,General
+C2372078,peer interactions are directed by self,General
+C2372078,seeks out contact with other children,General
+C2372078,initiating social interactions,General
+C2372078,did initiate contact,General
+C2372078,is seeking social interactions,General
+C2372078,certainly does seek out attention,General
+C2372078,spontaneous social interaction,General
+C2372078,does spontaneously seek to share interests or achievements with other people,General
+C2372078,did show evidence of initiating an interaction,General
+C2372078,initiates social exchanges,General
+C2372078,initiates contact with friends,General
+C2372078,initiates play behavior,General
+C2372078,initiates social behavior with family or individuals,General
+C2372078,able to initiate a social interaction,General
+C2372078,spontaneously engaging in other children,General
+C2372078,voluntary interaction with therapist,General
+C2372078,"initiate any interaction, verbal or nonverbal",General
+C0871226,"lack of ""connecting""",General
+C0871226,talking to self,General
+C0871226,played with toys by mother's side,General
+C0871226,self-directed behavior,General
+C0871226,self-directed,General
+C0871226,reciprocity,General
+CHIP1000201,plays with people as objects,General
+CHIP1000201,uses hand as tool,General
+CHIP1000201,uses examiner's hand as tool,General
+CHIP1000201,uses people as objects,General
+C1822049,does not interact with other children,General
+C1822049,does not interact with peers,General
+C1822049,she is not interactive,General
+C1822049,refusal to interact with other children,General
+C1822049,zero interaction with people,General
+C1822049,doesn't socially interact,General
+C1822049,uninterested in interacting with family or other children,General
+C1822049,not interacting socially with others,General
+C1822049,he has no social interaction with other children,General
+C1822049,does not engage in meaningful reciprocal social interactions,General
+C1822049,interacts with other children,General
+C1822049,interacts with peers,General
+C1822049,is interactive,General
+C1822049,agrees to interact with other children,General
+C1822049,interaction with people,General
+C1822049,socially interacts,General
+C1822049,interested in interacting with family or other children,General
+C1822049,interacting socially with others,General
+C1822049,has social interaction with other children,General
+C1822049,engages in meaningful reciprocal social interactions,General
+C0424095,"looking through you, content to be in her own little world",General
+C0424095,mostly ignored me,General
+C0424095,ignoring questions,General
+C0424095,is in his own little world,General
+C0424095,behaves as if deaf,General
+C0424095,unresponsive to requests,General
+C0424095,starring blankly into space,General
+C0424095,"interacted with examiner in pleasant, but disengaged, manner",General
+C0424095,sense of disconnectedness was frequently present,General
+C0424095,"interacted with examiner in quiet, withdrawn manner",General
+C0424095,somewhat withdrawn,General
+C0424095,social withdrawal,General
+C0424095,withdrawal from social contact,General
+C0424095,withdrawal; social,General
+C0023012,delay language,General
+C0023012,language delay,General
+C0023012,language delays,General
+C0023012,delayed language abilities,General
+C0023012,profound language delay,General
+C0023012,has had profound language delay,General
+C0023012,language milestones quite delayed,General
+C0023012,language has always been delayed,General
+C0023012,language skills limited,General
+C0023012,marked impairment in language,General
+C0023012,has some language difficulties as well as flipping words in sentences and difficulty with pronunciation,General
+C0023012,delayed or lack of receptive language,General
+C0023012,receptive & expressive language difficulties,General
+C0023012,delayed language,General
+C0023012,delayed; language,General
+C0023012,language delayed,General
+C0241210,speech delay,General
+C0241210,overall speech is delayed,General
+C0241210,limited speech,General
+C0241210,delayed speech,General
+C0241210,delays speech,General
+C0241210,speech delayed,General
+C0241210,speech delays,General
+C0241210,delayed articulation,General
+C0241210,delayed; articulation,General
+C0241210,delayed; speech,General
+C0241210,slow to talk,General
+C1864999,delayed speech and language development,General
+C1864999,significantly delayed speech and language development,General
+C1864999,severe speech/language retardation,General
+C1864999,speech and language delay,General
+C1864999,delayed speech and language,General
+C150868,non-communicating child,General
+C150868,he does not talk,General
+C150868,no verbal communication,General
+C150868,no conversational speech,General
+C150868,no intelligible speech,General
+C150868,language non-existent,General
+C150868,no functional language,General
+C150868,no meaningful language,General
+C150868,lack of expressive language,General
+C150868,never developed normal speech or language,General
+C150868,"communicates by grunting, screaming, crying",General
+C150868,non-verbal,General
+C150868,use of jargon,General
+C0150820,verbal communication,General
+C0150820,communication verbal,General
+C0746940,no words,General
+C0746940,she has no words,General
+C0746940,nonverbal,General
+C2673260,has about five words,General
+C2673260,"language consists of ""Barney"" and "" no""",General
+C2673260,rarely says any words,General
+C2673260,limited expressive language,General
+C0581878,uses only single words,General
+C0581878,unable to speak in sentences,General
+C0581878,he has very little in the way of sentences,General
+C0581878,string 2 to 3 words together at a time,General
+C0581878,"spoke in broken sentences (""me do"")",General
+C0581878,very little verbal response,General
+C0581878,limited vocabulary,General
+C0581878,speech limited,General
+C0454622,Difficulty conveying wants & needs with language,General
+C0454622,Unable to ask for things using words,General
+C0454622,Difficulty answering questions,General
+C0454622,atypical pragmatic language skills,General
+C0454622,social use of language was below expectations,General
+C0454622,moderate impairment in pragmatic language,General
+C0454622,fails to use language as a form of social interaction,General
+C0454622,difficulty with concrete speech and language,General
+C0454622,tends to communicate by grunting & screaming,General
+C0454622,his understanding of pragmatic language appears to be quite limited,General
+C0454622,answers virtually no questions in a meaningful manner,General
+C0454622,significant lack in communication skills,General
+C0454622,does not appropriately respond verbally,General
+C0454622,semantic-pragmatic impairment,General
+C0566090,unable to sustain conversation,General
+C0566090,difficulty sustaining conversation,General
+C0566090,unable to maintain conversation,General
+C0566068,does not initiate conversation,General
+C0566068,cannot initiate conversation,General
+C0566068,lack of communicator initiative & responsiveness,General
+C0566063,difficult to engage in spontaneous conversation,General
+C0566063,appears not to pick up on conversational cues well,General
+C0566063,difficulty with conversational skills,General
+C0566063,no functional language,General
+C0566063,no pragmatic language,General
+C0566063,content of speech seems lacking much of the time,General
+C0566063,no spontaneous speech,General
+C0566063,difficulty making conversation,General
+C0013528,Echolalia,General
+C0013528,speech echolalic,General
+C0013528,echolalia tendencies heard,General
+C0013528,great deal of echolalia,General
+C0013528,delayed echolalia,General
+C0013528,occasionally echolalic,General
+C0013528,some echolalia,General
+C0013528,some evidence of echolalia,General
+C0013528,some echolalic tendencies were heard,General
+C0013528,echolalic tendencies in his toddler years,General
+C0013528,language continues to be quite stereotypical and quite echolalic,General
+C0013528,"expressive language, often echolalic-like",General
+C0013528,seems to parrot or mimic what is said,General
+C0013528,echo speech,General
+C0013528,echo reaction,General
+C0013528,echophrasia,General
+C0013528,"reaction, echo",General
+C0013528,"speech, echo",General
+C0392185,repeating words,General
+C0392185,repeated certain words over and over,General
+C0392185,much of his speech is repetitive,General
+C0392185,"repetitive, stereotypic utterances",General
+C0392185,"repetitious, recitation-like quality",General
+C0392185,repetitive stereotypical phrases such as 'you bet',General
+C0392185,repeating sounds in perseverative way,General
+C0392185,often perseverated with a word for days at a time,General
+C0392185,often repeats phrases from videos,General
+C0392185,repeats / imitates almost all words said to him,General
+C0392185,some self-stimulating verbal activity - stereotype behavior of naming letters & some numbers with articulation,General
+C0392185,verbal repetition,General
+C0392185,repetitive speech,General
+C0392185,palilalia,General
+C0392185,"repetition, NOS",General
+C0514261,speaking in third person,General
+C0514261,difficulty understanding appropriate use of pronouns and speaking,General
+C0514261,does not use pronouns,General
+CHIP1000204,stereotypical utterances,General
+CHIP1000204,stereotypic vocalization,General
+CHIP1000204,stereotyped phrases,General
+CHIP1000204,rote phrases,General
+C0233726,mimics sounds,General
+C0233726,sing-songy sounds,General
+C0233726,making voices,General
+C0233726,atypical prosody,General
+C0233726,aprosodia,General
+C0233726,aprosodic speech,General
+C0233726,"speech, aprosodic",General
+C0233726,aprosody,General
+C2018115,high-pitched and repetitive vocalizations,General
+C2018115,high pitched quality of speech,General
+C2018115,speech often shrill / high pitched when excited,General
+C2018115,"prosodic contour odd, generally high in pitch",General
+C2018115,speech tone high-pitched,General
+C2674583,idiosyncratic language abnormalities,General
+C2674583,talks / answers himself in a different voice,General
+C2674583,unusual noises,General
+C2674583,making hee-haw sounds,General
+C2674583,"strange, unusual 'oowing' noise",General
+C2674583,unusual sounds such as squealing or guttural sounds,General
+C2674583,"auditory self-stimulation - singing, vocalizations",General
+C2674583,repeating non-sense sounds,General
+C2674583,inappropriate giggling,General
+C2674583,unintelligible speech,General
+C2674583,unintelligible vocalizations,General
+C2674583,grunting,General
+C517121,stopped using toys,General
+C517121,does not play with toys,General
+C517121,does not play with manipulative toys,General
+C517121,no meaningful interaction with toys,General
+C517121,not engaging in any specific play activity,General
+C517121,inspected toys but did not play with toys,General
+C0517073,started using toys,General
+C0517073,plays with toys,General
+C0517073,plays with manipulative toys,General
+C0517073,meaningful interaction with toys,General
+C0517073,engaging in specific play activity,General
+C0517073,inspected toys and played with toys,General
+C1822065,no imaginative play,General
+C1822065,play with toys was without imaginative control,General
+C1822065,no evidence of creative play,General
+C1822065,no indication of creative or representational play,General
+C1822065,little evidence of pretend / creative play,General
+C1822065,he is not involved in interactive play,General
+C1822065,she did not engage in my obvious pretend play,General
+C1822065,very significant lack of interest in make-believe play,General
+C1822065,lacks spontaneous make believe play,General
+C1822065,no symbolic play,General
+C1822065,engages in creative play,General
+C517121,does not play with toys appropriately,General
+C517121,toys not used in any purposeful manner,General
+C517121,interacted with toys only by naming them,General
+C0517073,plays with toys appropriately,General
+C0517073,toys used in purposeful manner,General
+C0517073,interacted with toys in addition to naming them,General
+C0517073,shows interest in toys,General
+C1822065,imaginary play minimal,General
+C1822065,does not engage in much imaginative play,General
+C1822065,imaginary play great,General
+C1822065,engages in much imaginative play,General
+C1822065,engages in creative play,General
+C2584305,No imitative play,General
+C2584305,nothing to suggest imitation,General
+C2584305,imitative play,General
+C2584305,suggests imitation,General
+C2584305,copying,General
+C2584305,imitation,General
+C2584305,learning imitation,General
+C2584305,copying (learning),General
+C2584305,imitation (learning),General
+C0424268,lining up toys,General
+C0424268,repetitively lining up toys,General
+C0424268,lining up cars,General
+C0424268,lines up objects,General
+C0424268,likes to line objects up,General
+C0424268,only plays by lining things up,General
+C0424268,arranging objects in straight line,General
+C2372110,limited play,General
+C2372110,play is limited and quite stereotypic,General
+C2372110,play is extremely limited,General
+C2372110,play was simple and repetitive,General
+C2372110,continues stereotypical play,General
+C2372110,perseverative play,General
+C2372110,"play was simple and repetitive, indeed perseverative",General
+C2372110,trouble playing with toys,General
+C2372110,shows little interest in toys,General
+C2372110,narrowed involvement with play activities,General
+C2372110,play with toys is not very functional,General
+C2372110,plays randomly with toys,General
+C2372110,has few toys,General
+C2372110,only a few toys with which he will play,General
+C2372110,play is limited to a few preferred items,General
+C2372110,does not play with toys in the fashion intended,General
+C2372110,plays abnormally with toys,General
+C2372110,will repeatedly toss blocks to floor and watch them scatter,General
+C2675334,"restrictive behavior, interests, and activities",General
+C2675334,fascination with water,General
+C2675334,preoccupation with water,General
+C2675334,repetitively playing with water,General
+C2675334,"profound fascination for water, balloon",General
+C2675334,memorizing telephone numbers,General
+C2675334,memorizes lines and dialogue from movies and stories,General
+C2675334,memorization of lengthy book passages,General
+C2675334,perseverates on various topics,General
+C2675334,perseverates on a single topic,General
+C0562463,fascination with spinning fans,General
+C0562463,enjoys watching spinning fans,General
+C0562463,fascinated by spinning objects,General
+C0562463,likes to watch objects spin,General
+C0562463,turning / twirling objects,General
+C0562463,repetitive spinning of objects,General
+C2114104,Preoccupation with fire,General
+C2114104,preoccupied with medical instruments,General
+C2114104,fascinated by the sound when computer is turned on; when air is squeezed out of bottle,General
+C2114104,peculiar preoccupation with horizontal and vertical planes,General
+C2114104,preoccupation with bouncing ball,General
+C2114104,likes to watch the mixer,General
+C2114104,very preoccupied with cartoons,General
+C2114104,fixated on horses,General
+C2114104,fascinated by mechanical objects,General
+C2114104,trains,General
+C2114104,"obsessed with elevators, writing, and drawing",General
+C2114104,obsesses on bendable objects,General
+C2114104,fascinated by anything with letters,General
+C2114104,grasshoppers,General
+C2114104,"obsessively focused on books, videos, and pictures",General
+C2114104,preoccupation with cutting up paper into small pieces,General
+C2114104,preoccupied with wires and cords,General
+C2114104,"preoccupation with trash, bathrooms, memorizing birthdays",General
+C2114104,fascination with engines and keys,General
+C2114104,tipping a cup of water into the sink over and over,General
+C2114104,repeatedly putting puzzles together,General
+C2114104,compulsion for jigsaw puzzles,General
+C2114104,"enamored of television country music station, will watch for 2-3 hours (note: issue is NOT time it's the 'enamored/perseverative' issue)",General
+C2114104,fixation on certain objects and colors,General
+C2114104,lining up objects,General
+C2114104,repetitive activities such as counting objects,General
+C2114104,"obsessed with tire swings, color yellow (stacking only yellow blocks, using only yellow crayons)",General
+C2114104,preoccupied with living things,General
+C2114104,preoccupation of patterns of doing things,General
+C2114104,restricted interest in play,General
+C2114104,playing excessively with certain objects,General
+C2114104,excessive focus on cars and trains,General
+C2114104,spends much time filtering corn through his hands,General
+C2114104,she will stare at books or wrap string around fingers for hours,General
+C2114104,playing with cage / netting over and over,General
+C2114104,fans the pages of a book 20 minutes at a time,General
+C2114104,"staring into mirror, lights",General
+C2114104,has watched particular video 100-200 times,General
+C2114104,likes to do puzzles over and over again,General
+C2114104,play on trampoline for hours,General
+C2114104,picking at wallpaper until whole room is free of wallpaper,General
+C2114104,he arranges his cars over and over again in lines,General
+C2114104,"playing for long periods with trains, arranging and rearranging in different patterns",General
+C2114104,his favorite activity is to walk around waving coat hangers in front of himself,General
+C2114104,fills and empties bank with coins repeatedly,General
+C2114104,likes to tie things together,General
+C2114104,"likes playing with boxes, will line them up in a stereotypical manner and will walk around and look at them",General
+C2114104,his play is described as intense,General
+C2114104,he can become fixated on an activity to the point that it is impossible to redirect him,General
+C2114104,very focused and intense on single activities / objects to the point of tuning everyone out,General
+C2114104,preoccupation with television,General
+C2114104,he can be totally absorbed in watching television,General
+C2114104,perseverative at watching videos and other activities,General
+C2114104,preoccupation with narrowly focused interest,General
+C0475222,ritualized behaviors,General
+C0475222,"needing to get out of car in certain way, touching walls in rooms",General
+C0475222,need to touch walls in certain places at certain times of the day,General
+C0475222,smells everything,General
+C0475222,"stacking books, touching rituals",General
+C0475222,number of rituals,General
+C0475222,preoccupied with touching things,General
+C0475222,walks in straight and specific patterns,General
+C0475222,"obsessive rituals before going to bed, opening cupboards",General
+C0475222,requires that his brother say exact same words each night during the bedtime ritual,General
+C0475222,fast forward and rewinds videos to which he is deeply attached and sleeps with,General
+C0475222,licking carpet during exam,General
+C0475222,ritualistic behavior,General
+C2675335,Lining up toys,General
+C2675335,"lining up, grouping toys",General
+C2675335,"if this activity is disrupted (lining up objects), he exhibits anger",General
+C2675335,lining up pictures of presidents,General
+C2675335,tends to twirl ropes or strings throughout the house repetitively,General
+C2675335,"setting up, knocking down objects repeatedly",General
+C2675335,turning light switch on and off repeatedly,General
+C2675335,turning water and light switches on and off,General
+C2675335,engaging in some repetitive behaviors,General
+C2675335,perseverative behaviors,General
+C2675335,repetitive hand washing,General
+C2675335,engaging in some repetitive behavior,General
+C2675335,repetitious behavior,General
+C2675335,repetitively labeling objects,General
+C2675335,likes to have something in hand which he tends to fondle and tear up,General
+C2675335,"stereotyped, repetitive behavior",General
+C1837653,resistant to change,General
+C1837653,usually resists undertaking any activity,General
+C1837653,likes repetition and routine,General
+C1837653,shows a need for routine,General
+C1837653,inflexibility with regard to routines,General
+C1837653,difficulty with changes in routine,General
+C1837653,rigidity of routines,General
+C1837653,likes to have matters on things the same,General
+C1837653,makes effort at maintaining routine,General
+C1837653,insists on sameness,General
+C1837653,insistence on sameness,General
+C1837653,"desire for sameness, some intolerance for change",General
+C1837653,very demanding of sameness,General
+C1837653,he seems very fixated on doing things in his own order,General
+C1837653,he cannot tolerate changes in his routine,General
+C1837653,quite marked resistance to change,General
+C1837653,becomes upset if parents fail to follow specific car route,General
+C1837653,distress if parents drive different way to grandmother's house,General
+C1837653,routines very important; if altered he becomes agitated,General
+C1837653,changes can be very upsetting to her,General
+C1837653,prefers a consistent routine; cries if changes are made,General
+C1837653,easily upset when routines are broken,General
+C1837653,easily upset by change in routines,General
+C1837653,upset if meals don't occur at exactly the same time,General
+C1837653,angry in response to change in routine,General
+C1837653,becomes very upset with change to his routine,General
+C1837653,"if the routines of her life are broken, she becomes quite angry",General
+C1837653,refusing to eat food if not cut in a certain way,General
+C1837653,needs lots of structure and consistency,General
+C1837653,fearful to try new activities,General
+C1837653,adherence to routine,General
+C1837653,inflexible adherence to routines or rituals,General
+C0424247,Hand flapping,General
+C0424247,hand flapping when excited,General
+C0424247,hand flapping when agitated,General
+C0424247,arm waving when excited,General
+C0424247,flapping movements of hands,General
+C1853236,Hand movements,General
+C1853236,hand waving,General
+C1853236,hand shaking,General
+C1853236,unusual hand movements,General
+C1853236,repeatedly turning over hands,General
+C1853236,"shaking of hands, shuddering",General
+C1853236,clapping hands on thighs in a very rapid fashion,General
+C1853236,finger wiggling,General
+C1853236,hand / finger wiggling,General
+C1853236,hand clapping,General
+C1853236,repetitive clapping,General
+C1853236,number of instances of idiosyncratic movements with his hands,General
+C1853236,"idiosyncratic movements, walking fingers across table",General
+C1853236,stereotypic finger movements,General
+C1853236,repetitive finger movements,General
+C1853236,repetitive flexion / extension movements of his fingers,General
+C1853236,loves to tap finger on table,General
+C1853236,tapping finger and thumb together,General
+C1853236,rapid finger movements,General
+C1853236,finger flicking,General
+C1853236,finger flicking in front of face,General
+C1853236,waving things in front of his face,General
+C1853236,some finger waving by eye,General
+C1853236,finger-play behavior,General
+C1853236,ringing of hands,General
+C1853236,stereotypic movements,General
+C1853236,stereotypical movements,General
+C1853236,Stereotypical motor behavior,General
+C1853236,atypical stereotypic motor mannerisms,General
+C1853236,some stereotypic movements observed,General
+C1853236,some self-stimulatory behavior,General
+C1853236,some stereotypic hand movements were observed,General
+C1853236,occasions in which he will demonstrate repetitive movements,General
+C1853236,repetitive mannerisms described,General
+C1853236,has manifested stereotypic - like movements,General
+C1853236,picks at nose stereotypically with thumb and index finger,General
+C1853236,picking at her nose for hours at a time,General
+C1853236,"moving his jaw, rubbing his hands together",General
+C1853236,hitting jaw with hand to click teeth,General
+C1853236,picks at his skin,General
+C1853236,blowing on hand,General
+C1853236,hand licking,General
+C1853236,lip smacking,General
+C1853236,arm flapping,General
+C1853236,head shaking,General
+C1853236,"twisting his nipples, repetitively striking his finger against table",General
+C1853236,body posturing,General
+C1853236,unusual posturing; jumping while holding crotch,General
+C1853236,raising one of his arms,General
+C1853236,moving foot in stereotypic manner,General
+C1853236,plugging ear with thumb,General
+C1853236,hair flicking,General
+C1853236,hopping,General
+C1853236,slapping hands under chin,General
+C1853236,motor jerks (stereotypical or repetitive - not a tic),General
+C1853236,hair pulling,General
+C1853236,hand sucking,General
+C1853236,general self stimulation,General
+C1853236,manic - pacing,General
+C0562462,Spinning,General
+C0562462,spins around in circles,General
+C0562462,likes to spin in circles,General
+C0562462,enjoys spinning,General
+C0562462,he likes to spin and twirl,General
+C0562462,loves to spin in circles,General
+C0562462,loves to spin,General
+C0562462,twirling and spinning,General
+C0562462,"practices spinning, twirling his body",General
+C0562462,self-stimulatory behaviors including spinning,General
+C0562462,repetitive spinning of whole body,General
+C0562458,pacing in circles,General
+C0562458,runs in circles,General
+C0562458,pacing up and down,General
+C0562458,pacing,General
+C0562458,pacing the floor,General
+C2170460,head banging,General
+C2170460,pounds head,General
+C2170460,head banging on floor repeatedly,General
+C2170460,hitting himself on head,General
+C2170460,slapping himself,General
+C2170460,repetitive head banging,General
+C0005899,Rocking,General
+C0005899,sits on bed and rocks,General
+C0005899,body rocking,General
+C0005899,body-rocking,General
+C0005899,repetitive rocking movements,General
+C0427144,Toe walking,General
+C0427144,runs on tip toes,General
+C0427144,toe-walking gait,General
+C0427144,toe-walking,General
+C0427144,walking on toes,General
+C0427144,abnormality of toe walking,General
+C2114105,stereotypic play with wheels,General
+C2114105,spinning wheels of toys,General
+C2114105,spinning wheels repetitively,General
+C2114105,enjoys spinning wheels of cars,General
+C2114105,watching wheels of trucks,General
+C2114105,likes to watch wheels spin,General
+C2114105,preoccupation with spinning wheels,General
+C2114105,focused attention on wheels of car,General
+C2114105,carefully scrutinizes parts of toys,General
+C2114105,fascinated by parts of objects,General
+C2114105,tends to relate to objects as their parts as opposed to their whole,General
+C2114105,preoccupation with parts of objects,General
+C2114105,opens and closes toy car doors and looks inside over and over,General
+C2114105,fascinated with dolls that have eyes that open and close,General
+C2114105,he has a fascination with objects,General
+C2114105,interest with mechanical devices,General
+C1707798,"will manipulate things, take things apart",General
+C1707798,picking at objects until disassembled,General
+C1707798,disassembly,General
+C1707798,disassemble,General
+C0085271,bites fingers until red and swollen,General
+C0085271,arm biting,General
+C0085271,picking or pulling hair out,General
+C0085271,self-injurious behavior,General
+C0085271,deliberate self-harm,General
+C0085271,deliberate self harm,General
+C0085271,self injurious behavior,General
+C0085271,"self-harm, deliberate",General
+C0085271,self-abusive behavior,General
+C0085271,self-destructive behavior,General
+C0085271,self destructive behavior,General
+C0457044,bothered by loud volume on radio,General
+C0457044,does not like to be touched,General
+C0457044,"tactile defensiveness (finger paints, playdough, shaving cream, etc.)",General
+C0457044,does not respond to pain appropriately,General
+C0457044,sensory intolerance,General
+C0031873,PICA,General
+C0031873,craving unusual or nonfood items,General
+C0031873,eats abnormal objects,General
+C0031873,abnormal craving,General
+C0031873,Inappropriate eating behavior,General
+CHIP1000209,"Hyper- or hypo-reactivity to sensory input or unusual interest in sensory aspects of environment; (such as apparent indifference to pain/heat/cold, adverse response to specific sounds or textures, excessive smelling or touching of objects, fascination with lights or spinning objects).",General
+CHIP1000209,hyper-reactivity to sensory input,General
+C1855589,hypersensitive to stimuli,General
+C2163191,cry as hypersensitive to stimulus,General
+C0234241,indifference to pain,General
+C0424795,tolerant of heat,General
+C0344336,tolerant of cold,General
+C1827779,abnormal response to sound,General

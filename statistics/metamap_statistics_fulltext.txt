@@ -1,0 +1,8 @@
+MetaMap results
+Number of true positives = 47544
+Number of positive labels = 48804
+Number of positive predictions = 1726985
+
+Precision = 0.027530059612561778
+Recall = 0.9741824440619621
+F-Measure = 0.05354690225021104

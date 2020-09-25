@@ -1,0 +1,8 @@
+CLAMP results
+Number of true positives = 96235
+Number of positive labels = 106284
+Number of positive predictions = 370654
+
+Precision = 0.2596356710031458
+Recall = 0.9054514320123442
+F-Measure = 0.40355350171301085
