@@ -1,0 +1,834 @@
+CUI_original,TEXT,TYPE,NEGATED,CUI,TUI
+C0004352,autism,New,False,C0004352,T048
+C1510586,autism spectrum disorder,New,False,C1510586,T048
+C0004352,autistic,New,False,C0004352,T048
+C1510586,asd,New,False,C1510586,T048
+C1510586,asds,New,False,C1510586,T048
+C0236792,asperger,New,False,C0236792,T048
+C0236792,asperger's,Asperger's,False,C0236792,T048
+C1837434,"asperger syndrome, susceptibility to, 3",Asperger's,False,C1837434,T047
+C1837646,"asperger syndrome, susceptibility to, 1",Asperger's,False,C1837646,T047
+C1837697,"asperger syndrome, susceptibility to, 2",Asperger's,False,C1837697,T047
+C1864961,"asperger syndrome, susceptibility to, 4",Asperger's,False,C1864961,T033
+C1845334,"asperger syndrome, x-linked, susceptibility to, 2 (finding)",Asperger's,False,C1845334,T033
+C1845341,"asperger syndrome, x-linked, susceptibility to, 1 (disorder)",Asperger's,False,C1845341,T047
+C3151708,"asperger syndrome, susceptibility to, x-linked 1",Asperger's,False,C3151708,T033
+C3151722,"asperger syndrome, susceptibility to, x-linked 2",Asperger's,False,C3151722,T033
+C0004352,autistic disorder,Autism,False,C0004352,T048
+C0175842,autistic children,Autism,False,C0175842,T101
+C0233639,autistic thinking,Autism,False,C0233639,T048
+C0856975,autistic behavior,Autism,False,C0856975,T048
+C1306579,psychopathy; autistic,Autism,False,C1306579,T047
+C1846135,autistic features,Autism,False,C1846135,T033
+C0154446,"infantile autism, current or active state",Autism,False,C0154446,T048
+C0338986,atypical autism,Autism,False,C0338986,T048
+C1389182,mental retardation; autistic features,Autism,False,C1389182,T048
+C1839793,autistic-like behavior,Autism,False,C1839793,T033
+C1841787,autism or autistic-like condition,Autism,False,C1841787,T033
+C1846042,autistic features (rare),Autism,False,C1846042,T033
+C2749029,autistic-like features,Autism,False,C2749029,T033
+C3279328,autistic features (if left untreated),Autism,False,C3279328,T033
+C1298684,autistic spectrum disorder with isolated skills,Autism,False,C1298684,T048
+C1845866,behavioral changes consistent with an autistic disorder,Autism,False,C1845866,T033
+C2062756,autistic disorder of childhood onset with full syndrome,Autism,False,C2062756,T048
+C2062757,autistic disorder of childhood onset with residual state,Autism,False,C2062757,T048
+C3148934,"mental retardation with language impairment and autistic features, 390-kb de",Autism,False,C3148934,T028
+C1510586,autism spectrum disorders,Autism,False,C1510586,T048
+C3278858,autism spectrum disorder (less common),Autism,False,C3278858,T033
+C0524528,pervasive development disorder,PDD-NOS,False,C0524528,T048
+C0008074,"child development disorders, pervasive",PDD-NOS,False,C0008074,T048
+C0349331,other pervasive developmental disorders,PDD-NOS,False,C0349331,T048
+C0851877,pervasive developmental disorders nec,PDD-NOS,False,C0851877,T048
+C1839006,pervasive developmental disorder (cvs+),PDD-NOS,False,C1839006,T033
+C2062758,atypical pervasive developmental disorder,PDD-NOS,False,C2062758,T048
+C1456313,other specified pervasive developmental disorders,PDD-NOS,False,C1456313,T048
+C2874989,pervasive and specific developmental disorders (f80-f89),PDD-NOS,False,C2874989,T048
+C1445953,moderate eye contact,General,False,C1445953,T033
+C1445953,eye contact fair,General,False,C1445953,T033
+C1445953,eye contact less than optimal,General,False,C1445953,T033
+C1445953,eye contact is present about 1/2 of time,General,False,C1445953,T033
+C1445953,sometimes making poor eye contact,General,False,C1445953,T033
+C1445953,intermittent eye contact,General,False,C1445953,T033
+C1445953,made intermittent eye contact,General,False,C1445953,T033
+C1445953,occasional brief eye contact,General,False,C1445953,T033
+C1445953,inconsistent eye contact,General,False,C1445953,T033
+C1445953,prefers to look at people out of corner of eye,General,False,C1445953,T033
+C1445953,eye contact was variable,General,False,C1445953,T033
+C1445953,eye contact mildly diminished,General,False,C1445953,T033
+C1445953,eye contact moderately reduced,General,False,C1445953,T033
+C1445953,decreased eye contact,General,False,C1445953,T033
+C1445953,diminished eye contact with examiner,General,False,C1445953,T033
+C1445953,eye contact of marginal quality,General,False,C1445953,T033
+C1445953,limited eye contact,General,False,C1445953,T033
+C1445953,little eye contact,General,False,C1445953,T033
+C1445953,makes little eye contact,General,False,C1445953,T033
+C1445953,eye contact fleeting,General,False,C1445953,T033
+C1445953,looked at me only fleetingly,General,False,C1445953,T033
+C1445953,he only provides a fleeting eye contact,General,False,C1445953,T033
+C1445953,eye contact only fleetingly achieved,General,False,C1445953,T033
+C1445953,"eye contact difficult to obtain, tended to be fleeting",General,False,C1445953,T033
+C1445953,eye contact abnormal,General,False,C1445953,T033
+C1445953,eye contact is present only sporadically; exhibits social smile only sporadically,General,False,C1445953,T033
+C1445953,"eye contact was marginal, usually fleeting, typified by lack of social acknowledgment",General,False,C1445953,T033
+C1445953,difficult to obtain or maintain eye contact,General,False,C1445953,T033
+C1445953,difficult to maintain eye contact,General,False,C1445953,T033
+C1445953,eye contact very difficult,General,False,C1445953,T033
+C1445953,rarely maintained eye contact,General,False,C1445953,T033
+C1445953,rarely makes eye contact,General,False,C1445953,T033
+C1445953,rarely establishes eye contact,General,False,C1445953,T033
+C1445953,he did not initiate eye contact,General,False,C1445953,T033
+C1445953,did not initiate any eye contact,General,False,C1445953,T033
+C1445953,avoided eye contact,General,False,C1445953,T033
+C1445953,avoided direct gaze,General,False,C1445953,T033
+C1445953,avoiding any eye contact,General,False,C1445953,T033
+C1445953,assiduously avoided any eye contact,General,False,C1445953,T033
+C1445953,he avoided eye contact with examiner,General,False,C1445953,T033
+C1445953,"facial expressions constricted, and eye contact",General,False,C1445953,T033
+C1445953,trouble making eye contact,General,False,C1445953,T033
+C1445953,minimal eye contact,General,False,C1445953,T033
+C1445953,impairment in eye-to-eye gaze,General,False,C1445953,T033
+C1445953,does not make good eye contact,General,False,C1445953,T033
+C1445953,did not establish good eye contact,General,False,C1445953,T033
+C1445953,did not sustain eye contact,General,False,C1445953,T033
+C1445953,very little eye contact,General,False,C1445953,T033
+C1445953,very little eye contact with others,General,False,C1445953,T033
+C1445953,very limited eye contact,General,False,C1445953,T033
+C1445953,makes very little eye contact,General,False,C1445953,T033
+C1445953,makes scarce eye contact,General,False,C1445953,T033
+C1445953,poor eye contact,General,False,C1445953,T033
+C1445953,shows poor eye contact,General,False,C1445953,T033
+C1445953,very poor eye contact,General,False,C1445953,T033
+C1445953,eye contact very poor,General,False,C1445953,T033
+C1445953,makes very poor eye contact,General,False,C1445953,T033
+C1445953,eye contact is virtually nill,General,False,C1445953,T033
+C1445953,eye contact is observed 3 times during 45 minute interview,General,False,C1445953,T033
+C1445953,never looks you in the eye,General,False,C1445953,T033
+C1445953,does not establish eye contact,General,False,C1445953,T033
+C1445953,eye contact never established,General,False,C1445953,T033
+C1445953,lack of eye contact,General,False,C1445953,T033
+C1445953,he did not provide any eye contact,General,False,C1445953,T033
+C1445953,no eye contact with examiner,General,False,C1445953,T033
+C1445953,no eye contact,General,False,C1445953,T033
+C1445953,eye contact non-existent,General,False,C1445953,T033
+C0813217,flat facial expression,General,False,C0813217,T033
+C0813217,facial expression is lacking for any social interchange,General,False,C0813217,T033
+C0813217,no indication of affect in his face,General,False,C0813217,T033
+C0813217,expressionless face,General,False,C0813217,T033
+C0813217,lack of facial expression,General,False,C0813217,T033
+C0813217,mask-like facial expression,General,False,C0813217,T033
+C0813217,poverty of facial expression,General,False,C0813217,T033
+C0566009,non-verbal social skills are poor,General,False,C0566009,T033
+C0566009,abnormal non-verbal communication,General,False,C0566009,T033
+C0566009,"no systematic, interactive non-verbal communication",General,False,C0566009,T033
+C0566009,does not use body posture to communicate,General,False,C0566009,T033
+C0566009,does not use gestures to communicate,General,False,C0566009,T033
+C0566009,difficulty using non-verbal communication,General,False,C0566009,T033
+C2372111,will not play with others,General,False,C2372111,T056
+C2372111,plays alone,General,False,C2372111,T056
+C2372111,doesn't play with anyone,General,False,C2372111,T056
+C2372111,plays by himself,General,False,C2372111,T056
+C2372111,solitary in his play,General,False,C2372111,T056
+C2372111,he only plays by himself,General,False,C2372111,T056
+C2372111,plays for long periods by himself,General,False,C2372111,T056
+C2372111,prefers to play alone,General,False,C2372111,T056
+C2372111,likes to play by himself,General,False,C2372111,T056
+C2372111,most of time he plays by himself,General,False,C2372111,T056
+C2372111,usually plays alone,General,False,C2372111,T056
+C2372111,does not play with other children,General,False,C2372111,T056
+C2372111,does not play with others,General,False,C2372111,T056
+C2372111,never playing with other children,General,False,C2372111,T056
+C2372111,not playing interactively,General,False,C2372111,T056
+C2372111,inability to play with other children,General,False,C2372111,T056
+C2372111,won't play with other kids,General,False,C2372111,T056
+C2372111,zero interactive play,General,False,C2372111,T056
+C2372111,no clear history of interactive play with other children,General,False,C2372111,T056
+C2372111,does not engage in reciprocal play,General,False,C2372111,T056
+C2372111,doesn't play games with family members or friends,General,False,C2372111,T056
+C2372111,no interest in playing with others,General,False,C2372111,T056
+C2372111,uninterested in playing with other children,General,False,C2372111,T056
+C2372111,no effort to initiate play with other children,General,False,C2372111,T056
+C2372111,does not usually play with other children,General,False,C2372111,T056
+C2372111,only rarely likes to play with other children,General,False,C2372111,T056
+C2372111,she does engage in interactive play with other children easily,General,False,C2372111,T056
+C2372111,he engages in little cooperative play,General,False,C2372111,T056
+C2372111,little in the way of social interactive play,General,False,C2372111,T056
+C2372111,does not engage or play with other children normally,General,False,C2372111,T056
+C2372111,"difficulty playing with peers, particularly in terms of both initiating and maintaining contact",General,False,C2372111,T056
+C2372111,engages in no definite social play with age mates,General,False,C2372111,T056
+C2372111,did not participate in any turn taking activities,General,False,C2372111,T056
+C2372111,avoidant of mutual play,General,False,C2372111,T056
+C2372111,avoids play with his peers,General,False,C2372111,T056
+C2372111,solitary play,General,False,C2372111,T056
+C2372113,parallel play,General,False,C2372113,T056
+C2372113,parallel play only,General,False,C2372113,T056
+C2372113,prefers parallel play,General,False,C2372113,T056
+C2372113,"likes to be around children, doesn't play with them",General,False,C2372113,T056
+C2372113,observes other children rather than join in,General,False,C2372113,T056
+C2372113,mostly watches other children,General,False,C2372113,T056
+C2372113,"watches children, but doesn't participate",General,False,C2372113,T056
+C2372113,"seems to want to be in the same room as other children, but is not actively involved in their activity",General,False,C2372113,T056
+C1287531,interest in peers,General,False,C1287531,T033
+C1287531,interested in interacting with other children,General,False,C1287531,T033
+C1287531,interested in interacting with family or other children,General,False,C1287531,T033
+C1287531,shows interest in peer relations,General,False,C1287531,T033
+C1287531,no interest in peers,General,False,C1287531,T033
+C1287531,not interested in interacting with other children,General,False,C1287531,T033
+C1287531,uninterested in interacting with family or other children,General,False,C1287531,T033
+C1287531,does not show any interest in peer relations,General,False,C1287531,T033
+C0150080,socially isolated,General,False,C0150080,T048
+C0150080,"socially, he isolates himself",General,False,C0150080,T048
+C0150080,isolative behavior,General,False,C0150080,T048
+C0150080,loner,General,False,C0150080,T048
+C0150080,always been a loner,General,False,C0150080,T048
+C0150080,parents describe him as a loner,General,False,C0150080,T048
+C0150080,"socially, he is a loner",General,False,C0150080,T048
+C0150080,pretty much a loner,General,False,C0150080,T048
+C0150080,no friends,General,False,C0150080,T048
+C0150080,no friends in his peer group,General,False,C0150080,T048
+C0150080,prefers isolated/autonomous activities; no close friends,General,False,C0150080,T048
+C0150080,has made few if any friends,General,False,C0150080,T048
+C0150080,impaired social interaction,General,False,C0150080,T048
+C0150080,impaired social interactions,General,False,C0150080,T048
+C0150080,social communication disorder,General,False,C0150080,T048
+C0150080,social interaction disorder,General,False,C0150080,T048
+C2675043,decreased interaction with other children,General,False,C2675043,T033
+C2675043,does not interact much with other children,General,False,C2675043,T033
+C2675043,doesn't have much interaction with children,General,False,C2675043,T033
+C2675043,limited in interactions with other children,General,False,C2675043,T033
+C2675043,minimal interaction with peers,General,False,C2675043,T033
+C2675043,impairment of peer relationships,General,False,C2675043,T033
+C2675043,does not have good peer relationships,General,False,C2675043,T033
+C2675043,history of failure to develop peer relationships,General,False,C2675043,T033
+C2675043,does not mix with other children,General,False,C2675043,T033
+C2675043,has great difficulty interacting with other children,General,False,C2675043,T033
+C2675043,does not engage or play with other children normally,General,False,C2675043,T033
+C2675043,lacks socialization skills with other children,General,False,C2675043,T033
+C2675043,very limited in the quality of social interaction with other children,General,False,C2675043,T033
+C2675043,poor social skills or interest in social interaction with peers,General,False,C2675043,T033
+C2675043,"has friends, but is socially inept",General,False,C2675043,T033
+C2675043,differently interacting with other children,General,False,C2675043,T033
+C2675043,continues to manifest atypicalities in interactional style and language pattern,General,False,C2675043,T033
+C2675043,limited social interaction,General,False,C2675043,T033
+C2675043,very little interaction with people around him,General,False,C2675043,T033
+C2675043,his interactions with others tends to be quite limited,General,False,C2675043,T033
+C2675043,limited interaction with other individuals,General,False,C2675043,T033
+C2675043,lost any interest in playing interactive games,General,False,C2675043,T033
+C2675043,very little in the way of social responsiveness or rapport,General,False,C2675043,T033
+C2675043,restricted ability to initiate contact,General,False,C2675043,T033
+C2675043,not socially connected to parents,General,False,C2675043,T033
+C2675043,consistent lack of social reciprocity,General,False,C2675043,T033
+C2675043,"withdrawn, passive behavior",General,False,C2675043,T033
+C2675043,"peculiar, avoidant, disengaged",General,False,C2675043,T033
+C2675043,social withdrawal,General,False,C2675043,T033
+C2675043,not engaging socially,General,False,C2675043,T033
+C2675043,cannot be engaged,General,False,C2675043,T033
+C2675043,not really connected socially,General,False,C2675043,T033
+C2675043,no social responsiveness,General,False,C2675043,T033
+C2675043,refused efforts to interact,General,False,C2675043,T033
+C2675043,no attempt to interact with examiner,General,False,C2675043,T033
+C2675043,not attending to social approaches from adults,General,False,C2675043,T033
+C2675043,"he will resist being held, hugged or shown physical affection",General,False,C2675043,T033
+C2675043,totally unresponsive to efforts to engage him interpersonally,General,False,C2675043,T033
+C2675043,did not actively engage with this examiner,General,False,C2675043,T033
+C2675043,difficulty with social interaction,General,False,C2675043,T033
+C2675043,disregards all attempts to interact with him,General,False,C2675043,T033
+C2675043,could not be engaged in social interaction,General,False,C2675043,T033
+C2675043,socially disconnected,General,False,C2675043,T033
+C2675043,relatively poor social interaction,General,False,C2675043,T033
+C2675043,will not interact in a socially meaningful manner,General,False,C2675043,T033
+C2675043,general disregard in social interaction,General,False,C2675043,T033
+C2675043,minimal interaction with examiner,General,False,C2675043,T033
+C2675043,clear-cut abnormalities in area of social interaction,General,False,C2675043,T033
+C2675043,pays little attention to family or examiner,General,False,C2675043,T033
+C2675043,decreased social interactions,General,False,C2675043,T033
+C2675043,"social interaction limited, particularly in group setting",General,False,C2675043,T033
+C2675043,severe delay in socializations,General,False,C2675043,T033
+C2675043,little social interaction with others,General,False,C2675043,T033
+C2675043,social disconnectedness,General,False,C2675043,T033
+C2675043,social interaction very limited,General,False,C2675043,T033
+C2675043,social interaction clearly disturbed,General,False,C2675043,T033
+C2675043,marked impairment of interpersonal relations,General,False,C2675043,T033
+C2675043,problems with reciprocal social interactions,General,False,C2675043,T033
+C2675043,difficulty establishing close relationships,General,False,C2675043,T033
+C2675043,"lacks social skills (poor, impaired, limited)",General,False,C2675043,T033
+C2675043,"resists being held, hugged or shown physical affection",General,False,C2675043,T033
+C2675043,atypical child with whom to interact,General,False,C2675043,T033
+C2372078,has to be drawn into interactions with other children,General,False,C2372078,T054
+C2372078,peer interactions are directed by other children,General,False,C2372078,T054
+C2372078,does not seek out contact with other children,General,False,C2372078,T054
+C2372078,did not initiate any contact,General,False,C2372078,T054
+C2372078,she is not seeking social interactions,General,False,C2372078,T054
+C2372078,she certainly does not seek out attention,General,False,C2372078,T054
+C2372078,no spontaneous social interaction,General,False,C2372078,T054
+C2372078,he does not spontaneously seek to share interests or achievements with other people,General,False,C2372078,T054
+C2372078,did not show any evidence of initiating an interaction,General,False,C2372078,T054
+C2372078,initiates only limited social exchanges,General,False,C2372078,T054
+C2372078,initiates little in the way of contact with friends,General,False,C2372078,T054
+C2372078,initiates very little in the way of play behavior,General,False,C2372078,T054
+C2372078,does not initiate any social behavior with family or individuals,General,False,C2372078,T054
+C2372078,still not able to initiate a social interaction,General,False,C2372078,T054
+C2372078,not spontaneously engaging in other children,General,False,C2372078,T054
+C2372078,no voluntary interaction with therapist,General,False,C2372078,T054
+C2372078,"did not initiate any interaction, verbal or nonverbal",General,False,C2372078,T054
+C2372078,enters into interactions with other children,General,False,C2372078,T054
+C2372078,peer interactions are directed by self,General,False,C2372078,T054
+C2372078,seeks out contact with other children,General,False,C2372078,T054
+C2372078,initiating social interactions,General,False,C2372078,T054
+C2372078,did initiate contact,General,False,C2372078,T054
+C2372078,is seeking social interactions,General,False,C2372078,T054
+C2372078,certainly does seek out attention,General,False,C2372078,T054
+C2372078,spontaneous social interaction,General,False,C2372078,T054
+C2372078,does spontaneously seek to share interests or achievements with other people,General,False,C2372078,T054
+C2372078,did show evidence of initiating an interaction,General,False,C2372078,T054
+C2372078,initiates social exchanges,General,False,C2372078,T054
+C2372078,initiates contact with friends,General,False,C2372078,T054
+C2372078,initiates play behavior,General,False,C2372078,T054
+C2372078,initiates social behavior with family or individuals,General,False,C2372078,T054
+C2372078,able to initiate a social interaction,General,False,C2372078,T054
+C2372078,spontaneously engaging in other children,General,False,C2372078,T054
+C2372078,voluntary interaction with therapist,General,False,C2372078,T054
+C2372078,"initiate any interaction, verbal or nonverbal",General,False,C2372078,T054
+C0871226,"lack of ""connecting""",General,False,C0871226,T054
+C0871226,talking to self,General,False,C0871226,T054
+C0871226,played with toys by mother's side,General,False,C0871226,T054
+C0871226,self-directed behavior,General,False,C0871226,T054
+C0871226,self-directed,General,False,C0871226,T054
+C0871226,reciprocity,General,False,C0871226,T054
+CHIP1000201,plays with people as objects,General,False,CHIP1000201,
+CHIP1000201,uses hand as tool,General,False,CHIP1000201,
+CHIP1000201,uses examiner's hand as tool,General,False,CHIP1000201,
+CHIP1000201,uses people as objects,General,False,CHIP1000201,
+C1822049,does not interact with other children,General,False,C1822049,T033
+C1822049,does not interact with peers,General,False,C1822049,T033
+C1822049,she is not interactive,General,False,C1822049,T033
+C1822049,refusal to interact with other children,General,False,C1822049,T033
+C1822049,zero interaction with people,General,False,C1822049,T033
+C1822049,doesn't socially interact,General,False,C1822049,T033
+C1822049,uninterested in interacting with family or other children,General,False,C1822049,T033
+C1822049,not interacting socially with others,General,False,C1822049,T033
+C1822049,he has no social interaction with other children,General,False,C1822049,T033
+C1822049,does not engage in meaningful reciprocal social interactions,General,False,C1822049,T033
+C1822049,interacts with other children,General,False,C1822049,T033
+C1822049,interacts with peers,General,False,C1822049,T033
+C1822049,is interactive,General,False,C1822049,T033
+C1822049,agrees to interact with other children,General,False,C1822049,T033
+C1822049,interaction with people,General,False,C1822049,T033
+C1822049,socially interacts,General,False,C1822049,T033
+C1822049,interested in interacting with family or other children,General,False,C1822049,T033
+C1822049,interacting socially with others,General,False,C1822049,T033
+C1822049,has social interaction with other children,General,False,C1822049,T033
+C1822049,engages in meaningful reciprocal social interactions,General,False,C1822049,T033
+C0424095,"looking through you, content to be in her own little world",General,False,C0424095,T033
+C0424095,mostly ignored me,General,False,C0424095,T033
+C0424095,ignoring questions,General,False,C0424095,T033
+C0424095,is in his own little world,General,False,C0424095,T033
+C0424095,behaves as if deaf,General,False,C0424095,T033
+C0424095,unresponsive to requests,General,False,C0424095,T033
+C0424095,starring blankly into space,General,False,C0424095,T033
+C0424095,"interacted with examiner in pleasant, but disengaged, manner",General,False,C0424095,T033
+C0424095,sense of disconnectedness was frequently present,General,False,C0424095,T033
+C0424095,"interacted with examiner in quiet, withdrawn manner",General,False,C0424095,T033
+C0424095,somewhat withdrawn,General,False,C0424095,T033
+C0424095,social withdrawal,General,False,C0424095,T033
+C0424095,withdrawal from social contact,General,False,C0424095,T033
+C0424095,withdrawal; social,General,False,C0424095,T033
+C0023012,delay language,General,False,C0023012,T033
+C0023012,language delay,General,False,C0023012,T033
+C0023012,language delays,General,False,C0023012,T033
+C0023012,delayed language abilities,General,False,C0023012,T033
+C0023012,profound language delay,General,False,C0023012,T033
+C0023012,has had profound language delay,General,False,C0023012,T033
+C0023012,language milestones quite delayed,General,False,C0023012,T033
+C0023012,language has always been delayed,General,False,C0023012,T033
+C0023012,language skills limited,General,False,C0023012,T033
+C0023012,marked impairment in language,General,False,C0023012,T033
+C0023012,has some language difficulties as well as flipping words in sentences and difficulty with pronunciation,General,False,C0023012,T033
+C0023012,delayed or lack of receptive language,General,False,C0023012,T033
+C0023012,receptive & expressive language difficulties,General,False,C0023012,T033
+C0023012,delayed language,General,False,C0023012,T033
+C0023012,delayed; language,General,False,C0023012,T033
+C0023012,language delayed,General,False,C0023012,T033
+C0241210,speech delay,General,False,C0241210,T048
+C0241210,overall speech is delayed,General,False,C0241210,T048
+C0241210,limited speech,General,False,C0241210,T048
+C0241210,delayed speech,General,False,C0241210,T048
+C0241210,delays speech,General,False,C0241210,T048
+C0241210,speech delayed,General,False,C0241210,T048
+C0241210,speech delays,General,False,C0241210,T048
+C0241210,delayed articulation,General,False,C0241210,T048
+C0241210,delayed; articulation,General,False,C0241210,T048
+C0241210,delayed; speech,General,False,C0241210,T048
+C0241210,slow to talk,General,False,C0241210,T048
+C1864999,delayed speech and language development,General,False,C1864999,T033
+C1864999,significantly delayed speech and language development,General,False,C1864999,T033
+C1864999,severe speech/language retardation,General,False,C1864999,T033
+C1864999,speech and language delay,General,False,C1864999,T033
+C1864999,delayed speech and language,General,False,C1864999,T033
+C150868,non-communicating child,General,False,C150868,
+C150868,he does not talk,General,False,C150868,
+C150868,no verbal communication,General,False,C150868,
+C150868,no conversational speech,General,False,C150868,
+C150868,no intelligible speech,General,False,C150868,
+C150868,language non-existent,General,False,C150868,
+C150868,no functional language,General,False,C150868,
+C150868,no meaningful language,General,False,C150868,
+C150868,lack of expressive language,General,False,C150868,
+C150868,never developed normal speech or language,General,False,C150868,
+C150868,"communicates by grunting, screaming, crying",General,False,C150868,
+C150868,non-verbal,General,False,C150868,
+C150868,use of jargon,General,False,C150868,
+C0150820,verbal communication,General,False,C0150820,T054
+C0150820,communication verbal,General,False,C0150820,T054
+C0746940,no words,General,False,C0746940,T033
+C0746940,she has no words,General,False,C0746940,T033
+C0746940,nonverbal,General,False,C0746940,T033
+C2673260,has about five words,General,False,C2673260,T033
+C2673260,"language consists of ""barney"" and "" no""",General,False,C2673260,T033
+C2673260,rarely says any words,General,False,C2673260,T033
+C2673260,limited expressive language,General,False,C2673260,T033
+C0581878,uses only single words,General,False,C0581878,T033
+C0581878,unable to speak in sentences,General,False,C0581878,T033
+C0581878,he has very little in the way of sentences,General,False,C0581878,T033
+C0581878,string 2 to 3 words together at a time,General,False,C0581878,T033
+C0581878,"spoke in broken sentences (""me do"")",General,False,C0581878,T033
+C0581878,very little verbal response,General,False,C0581878,T033
+C0581878,limited vocabulary,General,False,C0581878,T033
+C0581878,speech limited,General,False,C0581878,T033
+C0454622,difficulty conveying wants & needs with language,General,False,C0454622,T048
+C0454622,unable to ask for things using words,General,False,C0454622,T048
+C0454622,difficulty answering questions,General,False,C0454622,T048
+C0454622,atypical pragmatic language skills,General,False,C0454622,T048
+C0454622,social use of language was below expectations,General,False,C0454622,T048
+C0454622,moderate impairment in pragmatic language,General,False,C0454622,T048
+C0454622,fails to use language as a form of social interaction,General,False,C0454622,T048
+C0454622,difficulty with concrete speech and language,General,False,C0454622,T048
+C0454622,tends to communicate by grunting & screaming,General,False,C0454622,T048
+C0454622,his understanding of pragmatic language appears to be quite limited,General,False,C0454622,T048
+C0454622,answers virtually no questions in a meaningful manner,General,False,C0454622,T048
+C0454622,significant lack in communication skills,General,False,C0454622,T048
+C0454622,does not appropriately respond verbally,General,False,C0454622,T048
+C0454622,semantic-pragmatic impairment,General,False,C0454622,T048
+C0566090,unable to sustain conversation,General,False,C0566090,T033
+C0566090,difficulty sustaining conversation,General,False,C0566090,T033
+C0566090,unable to maintain conversation,General,False,C0566090,T033
+C0566068,does not initiate conversation,General,False,C0566068,T033
+C0566068,cannot initiate conversation,General,False,C0566068,T033
+C0566068,lack of communicator initiative & responsiveness,General,False,C0566068,T033
+C0566063,difficult to engage in spontaneous conversation,General,False,C0566063,T033
+C0566063,appears not to pick up on conversational cues well,General,False,C0566063,T033
+C0566063,difficulty with conversational skills,General,False,C0566063,T033
+C0566063,no functional language,General,False,C0566063,T033
+C0566063,no pragmatic language,General,False,C0566063,T033
+C0566063,content of speech seems lacking much of the time,General,False,C0566063,T033
+C0566063,no spontaneous speech,General,False,C0566063,T033
+C0566063,difficulty making conversation,General,False,C0566063,T033
+C0013528,echolalia,General,False,C0013528,T048
+C0013528,speech echolalic,General,False,C0013528,T048
+C0013528,echolalia tendencies heard,General,False,C0013528,T048
+C0013528,great deal of echolalia,General,False,C0013528,T048
+C0013528,delayed echolalia,General,False,C0013528,T048
+C0013528,occasionally echolalic,General,False,C0013528,T048
+C0013528,some echolalia,General,False,C0013528,T048
+C0013528,some evidence of echolalia,General,False,C0013528,T048
+C0013528,some echolalic tendencies were heard,General,False,C0013528,T048
+C0013528,echolalic tendencies in his toddler years,General,False,C0013528,T048
+C0013528,language continues to be quite stereotypical and quite echolalic,General,False,C0013528,T048
+C0013528,"expressive language, often echolalic-like",General,False,C0013528,T048
+C0013528,seems to parrot or mimic what is said,General,False,C0013528,T048
+C0013528,echo speech,General,False,C0013528,T048
+C0013528,echo reaction,General,False,C0013528,T048
+C0013528,echophrasia,General,False,C0013528,T048
+C0013528,"reaction, echo",General,False,C0013528,T048
+C0013528,"speech, echo",General,False,C0013528,T048
+C0392185,repeating words,General,False,C0392185,T033
+C0392185,repeated certain words over and over,General,False,C0392185,T033
+C0392185,much of his speech is repetitive,General,False,C0392185,T033
+C0392185,"repetitive, stereotypic utterances",General,False,C0392185,T033
+C0392185,"repetitious, recitation-like quality",General,False,C0392185,T033
+C0392185,repetitive stereotypical phrases such as 'you bet',General,False,C0392185,T033
+C0392185,repeating sounds in perseverative way,General,False,C0392185,T033
+C0392185,often perseverated with a word for days at a time,General,False,C0392185,T033
+C0392185,often repeats phrases from videos,General,False,C0392185,T033
+C0392185,repeats / imitates almost all words said to him,General,False,C0392185,T033
+C0392185,some self-stimulating verbal activity - stereotype behavior of naming letters & some numbers with articulation,General,False,C0392185,T033
+C0392185,verbal repetition,General,False,C0392185,T033
+C0392185,repetitive speech,General,False,C0392185,T033
+C0392185,palilalia,General,False,C0392185,T033
+C0392185,"repetition, nos",General,False,C0392185,T033
+C0514261,speaking in third person,General,False,C0514261,T058
+C0514261,difficulty understanding appropriate use of pronouns and speaking,General,False,C0514261,T058
+C0514261,does not use pronouns,General,False,C0514261,T058
+CHIP1000204,stereotypical utterances,General,False,CHIP1000204,
+CHIP1000204,stereotypic vocalization,General,False,CHIP1000204,
+CHIP1000204,stereotyped phrases,General,False,CHIP1000204,
+CHIP1000204,rote phrases,General,False,CHIP1000204,
+C0233726,mimics sounds,General,False,C0233726,T184
+C0233726,sing-songy sounds,General,False,C0233726,T184
+C0233726,making voices,General,False,C0233726,T184
+C0233726,atypical prosody,General,False,C0233726,T184
+C0233726,aprosodia,General,False,C0233726,T184
+C0233726,aprosodic speech,General,False,C0233726,T184
+C0233726,"speech, aprosodic",General,False,C0233726,T184
+C0233726,aprosody,General,False,C0233726,T184
+C2018115,high-pitched and repetitive vocalizations,General,False,C2018115,T033
+C2018115,high pitched quality of speech,General,False,C2018115,T033
+C2018115,speech often shrill / high pitched when excited,General,False,C2018115,T033
+C2018115,"prosodic contour odd, generally high in pitch",General,False,C2018115,T033
+C2018115,speech tone high-pitched,General,False,C2018115,T033
+C2674583,idiosyncratic language abnormalities,General,False,C2674583,T033
+C2674583,talks / answers himself in a different voice,General,False,C2674583,T033
+C2674583,unusual noises,General,False,C2674583,T033
+C2674583,making hee-haw sounds,General,False,C2674583,T033
+C2674583,"strange, unusual 'oowing' noise",General,False,C2674583,T033
+C2674583,unusual sounds such as squealing or guttural sounds,General,False,C2674583,T033
+C2674583,"auditory self-stimulation - singing, vocalizations",General,False,C2674583,T033
+C2674583,repeating non-sense sounds,General,False,C2674583,T033
+C2674583,inappropriate giggling,General,False,C2674583,T033
+C2674583,unintelligible speech,General,False,C2674583,T033
+C2674583,unintelligible vocalizations,General,False,C2674583,T033
+C2674583,grunting,General,False,C2674583,T033
+C517121,stopped using toys,General,False,C517121,
+C517121,does not play with toys,General,False,C517121,
+C517121,does not play with manipulative toys,General,False,C517121,
+C517121,no meaningful interaction with toys,General,False,C517121,
+C517121,not engaging in any specific play activity,General,False,C517121,
+C517121,inspected toys but did not play with toys,General,False,C517121,
+C0517073,started using toys,General,False,C0517073,T033
+C0517073,plays with toys,General,False,C0517073,T033
+C0517073,plays with manipulative toys,General,False,C0517073,T033
+C0517073,meaningful interaction with toys,General,False,C0517073,T033
+C0517073,engaging in specific play activity,General,False,C0517073,T033
+C0517073,inspected toys and played with toys,General,False,C0517073,T033
+C1822065,no imaginative play,General,False,C1822065,T033
+C1822065,play with toys was without imaginative control,General,False,C1822065,T033
+C1822065,no evidence of creative play,General,False,C1822065,T033
+C1822065,no indication of creative or representational play,General,False,C1822065,T033
+C1822065,little evidence of pretend / creative play,General,False,C1822065,T033
+C1822065,he is not involved in interactive play,General,False,C1822065,T033
+C1822065,she did not engage in my obvious pretend play,General,False,C1822065,T033
+C1822065,very significant lack of interest in make-believe play,General,False,C1822065,T033
+C1822065,lacks spontaneous make believe play,General,False,C1822065,T033
+C1822065,no symbolic play,General,False,C1822065,T033
+C1822065,engages in creative play,General,False,C1822065,T033
+C517121,does not play with toys appropriately,General,False,C517121,
+C517121,toys not used in any purposeful manner,General,False,C517121,
+C517121,interacted with toys only by naming them,General,False,C517121,
+C0517073,plays with toys appropriately,General,False,C0517073,T033
+C0517073,toys used in purposeful manner,General,False,C0517073,T033
+C0517073,interacted with toys in addition to naming them,General,False,C0517073,T033
+C0517073,shows interest in toys,General,False,C0517073,T033
+C1822065,imaginary play minimal,General,False,C1822065,T033
+C1822065,does not engage in much imaginative play,General,False,C1822065,T033
+C1822065,imaginary play great,General,False,C1822065,T033
+C1822065,engages in much imaginative play,General,False,C1822065,T033
+C2584305,no imitative play,General,False,C2584305,T041
+C2584305,nothing to suggest imitation,General,False,C2584305,T041
+C2584305,imitative play,General,False,C2584305,T041
+C2584305,suggests imitation,General,False,C2584305,T041
+C2584305,copying,General,False,C2584305,T041
+C2584305,imitation,General,False,C2584305,T041
+C2584305,learning imitation,General,False,C2584305,T041
+C2584305,copying (learning),General,False,C2584305,T041
+C2584305,imitation (learning),General,False,C2584305,T041
+C0424268,lining up toys,General,False,C0424268,T033
+C0424268,repetitively lining up toys,General,False,C0424268,T033
+C0424268,lining up cars,General,False,C0424268,T033
+C0424268,lines up objects,General,False,C0424268,T033
+C0424268,likes to line objects up,General,False,C0424268,T033
+C0424268,only plays by lining things up,General,False,C0424268,T033
+C0424268,arranging objects in straight line,General,False,C0424268,T033
+C2372110,limited play,General,False,C2372110,T056
+C2372110,play is limited and quite stereotypic,General,False,C2372110,T056
+C2372110,play is extremely limited,General,False,C2372110,T056
+C2372110,play was simple and repetitive,General,False,C2372110,T056
+C2372110,continues stereotypical play,General,False,C2372110,T056
+C2372110,perseverative play,General,False,C2372110,T056
+C2372110,"play was simple and repetitive, indeed perseverative",General,False,C2372110,T056
+C2372110,trouble playing with toys,General,False,C2372110,T056
+C2372110,shows little interest in toys,General,False,C2372110,T056
+C2372110,narrowed involvement with play activities,General,False,C2372110,T056
+C2372110,play with toys is not very functional,General,False,C2372110,T056
+C2372110,plays randomly with toys,General,False,C2372110,T056
+C2372110,has few toys,General,False,C2372110,T056
+C2372110,only a few toys with which he will play,General,False,C2372110,T056
+C2372110,play is limited to a few preferred items,General,False,C2372110,T056
+C2372110,does not play with toys in the fashion intended,General,False,C2372110,T056
+C2372110,plays abnormally with toys,General,False,C2372110,T056
+C2372110,will repeatedly toss blocks to floor and watch them scatter,General,False,C2372110,T056
+C2675334,"restrictive behavior, interests, and activities",General,False,C2675334,T033
+C2675334,fascination with water,General,False,C2675334,T033
+C2675334,preoccupation with water,General,False,C2675334,T033
+C2675334,repetitively playing with water,General,False,C2675334,T033
+C2675334,"profound fascination for water, balloon",General,False,C2675334,T033
+C2675334,memorizing telephone numbers,General,False,C2675334,T033
+C2675334,memorizes lines and dialogue from movies and stories,General,False,C2675334,T033
+C2675334,memorization of lengthy book passages,General,False,C2675334,T033
+C2675334,perseverates on various topics,General,False,C2675334,T033
+C2675334,perseverates on a single topic,General,False,C2675334,T033
+C0562463,fascination with spinning fans,General,False,C0562463,T033
+C0562463,enjoys watching spinning fans,General,False,C0562463,T033
+C0562463,fascinated by spinning objects,General,False,C0562463,T033
+C0562463,likes to watch objects spin,General,False,C0562463,T033
+C0562463,turning / twirling objects,General,False,C0562463,T033
+C0562463,repetitive spinning of objects,General,False,C0562463,T033
+C2114104,preoccupation with fire,General,False,C2114104,T184
+C2114104,preoccupied with medical instruments,General,False,C2114104,T184
+C2114104,fascinated by the sound when computer is turned on; when air is squeezed out of bottle,General,False,C2114104,T184
+C2114104,peculiar preoccupation with horizontal and vertical planes,General,False,C2114104,T184
+C2114104,preoccupation with bouncing ball,General,False,C2114104,T184
+C2114104,likes to watch the mixer,General,False,C2114104,T184
+C2114104,very preoccupied with cartoons,General,False,C2114104,T184
+C2114104,fixated on horses,General,False,C2114104,T184
+C2114104,fascinated by mechanical objects,General,False,C2114104,T184
+C2114104,trains,General,False,C2114104,T184
+C2114104,"obsessed with elevators, writing, and drawing",General,False,C2114104,T184
+C2114104,obsesses on bendable objects,General,False,C2114104,T184
+C2114104,fascinated by anything with letters,General,False,C2114104,T184
+C2114104,grasshoppers,General,False,C2114104,T184
+C2114104,"obsessively focused on books, videos, and pictures",General,False,C2114104,T184
+C2114104,preoccupation with cutting up paper into small pieces,General,False,C2114104,T184
+C2114104,preoccupied with wires and cords,General,False,C2114104,T184
+C2114104,"preoccupation with trash, bathrooms, memorizing birthdays",General,False,C2114104,T184
+C2114104,fascination with engines and keys,General,False,C2114104,T184
+C2114104,tipping a cup of water into the sink over and over,General,False,C2114104,T184
+C2114104,repeatedly putting puzzles together,General,False,C2114104,T184
+C2114104,compulsion for jigsaw puzzles,General,False,C2114104,T184
+C2114104,"enamored of television country music station, will watch for 2-3 hours (note: issue is not time it's the 'enamored/perseverative' issue)",General,False,C2114104,T184
+C2114104,fixation on certain objects and colors,General,False,C2114104,T184
+C2114104,lining up objects,General,False,C2114104,T184
+C2114104,repetitive activities such as counting objects,General,False,C2114104,T184
+C2114104,"obsessed with tire swings, color yellow (stacking only yellow blocks, using only yellow crayons)",General,False,C2114104,T184
+C2114104,preoccupied with living things,General,False,C2114104,T184
+C2114104,preoccupation of patterns of doing things,General,False,C2114104,T184
+C2114104,restricted interest in play,General,False,C2114104,T184
+C2114104,playing excessively with certain objects,General,False,C2114104,T184
+C2114104,excessive focus on cars and trains,General,False,C2114104,T184
+C2114104,spends much time filtering corn through his hands,General,False,C2114104,T184
+C2114104,she will stare at books or wrap string around fingers for hours,General,False,C2114104,T184
+C2114104,playing with cage / netting over and over,General,False,C2114104,T184
+C2114104,fans the pages of a book 20 minutes at a time,General,False,C2114104,T184
+C2114104,"staring into mirror, lights",General,False,C2114104,T184
+C2114104,has watched particular video 100-200 times,General,False,C2114104,T184
+C2114104,likes to do puzzles over and over again,General,False,C2114104,T184
+C2114104,play on trampoline for hours,General,False,C2114104,T184
+C2114104,picking at wallpaper until whole room is free of wallpaper,General,False,C2114104,T184
+C2114104,he arranges his cars over and over again in lines,General,False,C2114104,T184
+C2114104,"playing for long periods with trains, arranging and rearranging in different patterns",General,False,C2114104,T184
+C2114104,his favorite activity is to walk around waving coat hangers in front of himself,General,False,C2114104,T184
+C2114104,fills and empties bank with coins repeatedly,General,False,C2114104,T184
+C2114104,likes to tie things together,General,False,C2114104,T184
+C2114104,"likes playing with boxes, will line them up in a stereotypical manner and will walk around and look at them",General,False,C2114104,T184
+C2114104,his play is described as intense,General,False,C2114104,T184
+C2114104,he can become fixated on an activity to the point that it is impossible to redirect him,General,False,C2114104,T184
+C2114104,very focused and intense on single activities / objects to the point of tuning everyone out,General,False,C2114104,T184
+C2114104,preoccupation with television,General,False,C2114104,T184
+C2114104,he can be totally absorbed in watching television,General,False,C2114104,T184
+C2114104,perseverative at watching videos and other activities,General,False,C2114104,T184
+C2114104,preoccupation with narrowly focused interest,General,False,C2114104,T184
+C0475222,ritualized behaviors,General,False,C0475222,T080
+C0475222,"needing to get out of car in certain way, touching walls in rooms",General,False,C0475222,T080
+C0475222,need to touch walls in certain places at certain times of the day,General,False,C0475222,T080
+C0475222,smells everything,General,False,C0475222,T080
+C0475222,"stacking books, touching rituals",General,False,C0475222,T080
+C0475222,number of rituals,General,False,C0475222,T080
+C0475222,preoccupied with touching things,General,False,C0475222,T080
+C0475222,walks in straight and specific patterns,General,False,C0475222,T080
+C0475222,"obsessive rituals before going to bed, opening cupboards",General,False,C0475222,T080
+C0475222,requires that his brother say exact same words each night during the bedtime ritual,General,False,C0475222,T080
+C0475222,fast forward and rewinds videos to which he is deeply attached and sleeps with,General,False,C0475222,T080
+C0475222,licking carpet during exam,General,False,C0475222,T080
+C0475222,ritualistic behavior,General,False,C0475222,T080
+C2675335,lining up toys,General,False,C2675335,T033
+C2675335,"lining up, grouping toys",General,False,C2675335,T033
+C2675335,"if this activity is disrupted (lining up objects), he exhibits anger",General,False,C2675335,T033
+C2675335,lining up pictures of presidents,General,False,C2675335,T033
+C2675335,tends to twirl ropes or strings throughout the house repetitively,General,False,C2675335,T033
+C2675335,"setting up, knocking down objects repeatedly",General,False,C2675335,T033
+C2675335,turning light switch on and off repeatedly,General,False,C2675335,T033
+C2675335,turning water and light switches on and off,General,False,C2675335,T033
+C2675335,engaging in some repetitive behaviors,General,False,C2675335,T033
+C2675335,perseverative behaviors,General,False,C2675335,T033
+C2675335,repetitive hand washing,General,False,C2675335,T033
+C2675335,engaging in some repetitive behavior,General,False,C2675335,T033
+C2675335,repetitious behavior,General,False,C2675335,T033
+C2675335,repetitively labeling objects,General,False,C2675335,T033
+C2675335,likes to have something in hand which he tends to fondle and tear up,General,False,C2675335,T033
+C2675335,"stereotyped, repetitive behavior",General,False,C2675335,T033
+C1837653,resistant to change,General,False,C1837653,T033
+C1837653,usually resists undertaking any activity,General,False,C1837653,T033
+C1837653,likes repetition and routine,General,False,C1837653,T033
+C1837653,shows a need for routine,General,False,C1837653,T033
+C1837653,inflexibility with regard to routines,General,False,C1837653,T033
+C1837653,difficulty with changes in routine,General,False,C1837653,T033
+C1837653,rigidity of routines,General,False,C1837653,T033
+C1837653,likes to have matters on things the same,General,False,C1837653,T033
+C1837653,makes effort at maintaining routine,General,False,C1837653,T033
+C1837653,insists on sameness,General,False,C1837653,T033
+C1837653,insistence on sameness,General,False,C1837653,T033
+C1837653,"desire for sameness, some intolerance for change",General,False,C1837653,T033
+C1837653,very demanding of sameness,General,False,C1837653,T033
+C1837653,he seems very fixated on doing things in his own order,General,False,C1837653,T033
+C1837653,he cannot tolerate changes in his routine,General,False,C1837653,T033
+C1837653,quite marked resistance to change,General,False,C1837653,T033
+C1837653,becomes upset if parents fail to follow specific car route,General,False,C1837653,T033
+C1837653,distress if parents drive different way to grandmother's house,General,False,C1837653,T033
+C1837653,routines very important; if altered he becomes agitated,General,False,C1837653,T033
+C1837653,changes can be very upsetting to her,General,False,C1837653,T033
+C1837653,prefers a consistent routine; cries if changes are made,General,False,C1837653,T033
+C1837653,easily upset when routines are broken,General,False,C1837653,T033
+C1837653,easily upset by change in routines,General,False,C1837653,T033
+C1837653,upset if meals don't occur at exactly the same time,General,False,C1837653,T033
+C1837653,angry in response to change in routine,General,False,C1837653,T033
+C1837653,becomes very upset with change to his routine,General,False,C1837653,T033
+C1837653,"if the routines of her life are broken, she becomes quite angry",General,False,C1837653,T033
+C1837653,refusing to eat food if not cut in a certain way,General,False,C1837653,T033
+C1837653,needs lots of structure and consistency,General,False,C1837653,T033
+C1837653,fearful to try new activities,General,False,C1837653,T033
+C1837653,adherence to routine,General,False,C1837653,T033
+C1837653,inflexible adherence to routines or rituals,General,False,C1837653,T033
+C0424247,hand flapping,General,False,C0424247,T033
+C0424247,hand flapping when excited,General,False,C0424247,T033
+C0424247,hand flapping when agitated,General,False,C0424247,T033
+C0424247,arm waving when excited,General,False,C0424247,T033
+C0424247,flapping movements of hands,General,False,C0424247,T033
+C1853236,hand movements,General,False,C1853236,T033
+C1853236,hand waving,General,False,C1853236,T033
+C1853236,hand shaking,General,False,C1853236,T033
+C1853236,unusual hand movements,General,False,C1853236,T033
+C1853236,repeatedly turning over hands,General,False,C1853236,T033
+C1853236,"shaking of hands, shuddering",General,False,C1853236,T033
+C1853236,clapping hands on thighs in a very rapid fashion,General,False,C1853236,T033
+C1853236,finger wiggling,General,False,C1853236,T033
+C1853236,hand / finger wiggling,General,False,C1853236,T033
+C1853236,hand clapping,General,False,C1853236,T033
+C1853236,repetitive clapping,General,False,C1853236,T033
+C1853236,number of instances of idiosyncratic movements with his hands,General,False,C1853236,T033
+C1853236,"idiosyncratic movements, walking fingers across table",General,False,C1853236,T033
+C1853236,stereotypic finger movements,General,False,C1853236,T033
+C1853236,repetitive finger movements,General,False,C1853236,T033
+C1853236,repetitive flexion / extension movements of his fingers,General,False,C1853236,T033
+C1853236,loves to tap finger on table,General,False,C1853236,T033
+C1853236,tapping finger and thumb together,General,False,C1853236,T033
+C1853236,rapid finger movements,General,False,C1853236,T033
+C1853236,finger flicking,General,False,C1853236,T033
+C1853236,finger flicking in front of face,General,False,C1853236,T033
+C1853236,waving things in front of his face,General,False,C1853236,T033
+C1853236,some finger waving by eye,General,False,C1853236,T033
+C1853236,finger-play behavior,General,False,C1853236,T033
+C1853236,ringing of hands,General,False,C1853236,T033
+C1853236,stereotypic movements,General,False,C1853236,T033
+C1853236,stereotypical movements,General,False,C1853236,T033
+C1853236,stereotypical motor behavior,General,False,C1853236,T033
+C1853236,atypical stereotypic motor mannerisms,General,False,C1853236,T033
+C1853236,some stereotypic movements observed,General,False,C1853236,T033
+C1853236,some self-stimulatory behavior,General,False,C1853236,T033
+C1853236,some stereotypic hand movements were observed,General,False,C1853236,T033
+C1853236,occasions in which he will demonstrate repetitive movements,General,False,C1853236,T033
+C1853236,repetitive mannerisms described,General,False,C1853236,T033
+C1853236,has manifested stereotypic - like movements,General,False,C1853236,T033
+C1853236,picks at nose stereotypically with thumb and index finger,General,False,C1853236,T033
+C1853236,picking at her nose for hours at a time,General,False,C1853236,T033
+C1853236,"moving his jaw, rubbing his hands together",General,False,C1853236,T033
+C1853236,hitting jaw with hand to click teeth,General,False,C1853236,T033
+C1853236,picks at his skin,General,False,C1853236,T033
+C1853236,blowing on hand,General,False,C1853236,T033
+C1853236,hand licking,General,False,C1853236,T033
+C1853236,lip smacking,General,False,C1853236,T033
+C1853236,arm flapping,General,False,C1853236,T033
+C1853236,head shaking,General,False,C1853236,T033
+C1853236,"twisting his nipples, repetitively striking his finger against table",General,False,C1853236,T033
+C1853236,body posturing,General,False,C1853236,T033
+C1853236,unusual posturing; jumping while holding crotch,General,False,C1853236,T033
+C1853236,raising one of his arms,General,False,C1853236,T033
+C1853236,moving foot in stereotypic manner,General,False,C1853236,T033
+C1853236,plugging ear with thumb,General,False,C1853236,T033
+C1853236,hair flicking,General,False,C1853236,T033
+C1853236,hopping,General,False,C1853236,T033
+C1853236,slapping hands under chin,General,False,C1853236,T033
+C1853236,motor jerks (stereotypical or repetitive - not a tic),General,False,C1853236,T033
+C1853236,hair pulling,General,False,C1853236,T033
+C1853236,hand sucking,General,False,C1853236,T033
+C1853236,general self stimulation,General,False,C1853236,T033
+C1853236,manic - pacing,General,False,C1853236,T033
+C0562462,spinning,General,False,C0562462,T033
+C0562462,spins around in circles,General,False,C0562462,T033
+C0562462,likes to spin in circles,General,False,C0562462,T033
+C0562462,enjoys spinning,General,False,C0562462,T033
+C0562462,he likes to spin and twirl,General,False,C0562462,T033
+C0562462,loves to spin in circles,General,False,C0562462,T033
+C0562462,loves to spin,General,False,C0562462,T033
+C0562462,twirling and spinning,General,False,C0562462,T033
+C0562462,"practices spinning, twirling his body",General,False,C0562462,T033
+C0562462,self-stimulatory behaviors including spinning,General,False,C0562462,T033
+C0562462,repetitive spinning of whole body,General,False,C0562462,T033
+C0562458,pacing in circles,General,False,C0562458,T055
+C0562458,runs in circles,General,False,C0562458,T055
+C0562458,pacing up and down,General,False,C0562458,T055
+C0562458,pacing,General,False,C0562458,T055
+C0562458,pacing the floor,General,False,C0562458,T055
+C2170460,head banging,General,False,C2170460,T184
+C2170460,pounds head,General,False,C2170460,T184
+C2170460,head banging on floor repeatedly,General,False,C2170460,T184
+C2170460,hitting himself on head,General,False,C2170460,T184
+C2170460,slapping himself,General,False,C2170460,T184
+C2170460,repetitive head banging,General,False,C2170460,T184
+C0005899,rocking,General,False,C0005899,T055
+C0005899,sits on bed and rocks,General,False,C0005899,T055
+C0005899,body rocking,General,False,C0005899,T055
+C0005899,body-rocking,General,False,C0005899,T055
+C0005899,repetitive rocking movements,General,False,C0005899,T055
+C0427144,toe walking,General,False,C0427144,T033
+C0427144,runs on tip toes,General,False,C0427144,T033
+C0427144,toe-walking gait,General,False,C0427144,T033
+C0427144,toe-walking,General,False,C0427144,T033
+C0427144,walking on toes,General,False,C0427144,T033
+C0427144,abnormality of toe walking,General,False,C0427144,T033
+C2114105,stereotypic play with wheels,General,False,C2114105,T184
+C2114105,spinning wheels of toys,General,False,C2114105,T184
+C2114105,spinning wheels repetitively,General,False,C2114105,T184
+C2114105,enjoys spinning wheels of cars,General,False,C2114105,T184
+C2114105,watching wheels of trucks,General,False,C2114105,T184
+C2114105,likes to watch wheels spin,General,False,C2114105,T184
+C2114105,preoccupation with spinning wheels,General,False,C2114105,T184
+C2114105,focused attention on wheels of car,General,False,C2114105,T184
+C2114105,carefully scrutinizes parts of toys,General,False,C2114105,T184
+C2114105,fascinated by parts of objects,General,False,C2114105,T184
+C2114105,tends to relate to objects as their parts as opposed to their whole,General,False,C2114105,T184
+C2114105,preoccupation with parts of objects,General,False,C2114105,T184
+C2114105,opens and closes toy car doors and looks inside over and over,General,False,C2114105,T184
+C2114105,fascinated with dolls that have eyes that open and close,General,False,C2114105,T184
+C2114105,he has a fascination with objects,General,False,C2114105,T184
+C2114105,interest with mechanical devices,General,False,C2114105,T184
+C1707798,"will manipulate things, take things apart",General,False,C1707798,T052
+C1707798,picking at objects until disassembled,General,False,C1707798,T052
+C1707798,disassembly,General,False,C1707798,T052
+C1707798,disassemble,General,False,C1707798,T052
+C0085271,bites fingers until red and swollen,General,False,C0085271,T055
+C0085271,arm biting,General,False,C0085271,T055
+C0085271,picking or pulling hair out,General,False,C0085271,T055
+C0085271,self-injurious behavior,General,False,C0085271,T055
+C0085271,deliberate self-harm,General,False,C0085271,T055
+C0085271,deliberate self harm,General,False,C0085271,T055
+C0085271,self injurious behavior,General,False,C0085271,T055
+C0085271,"self-harm, deliberate",General,False,C0085271,T055
+C0085271,self-abusive behavior,General,False,C0085271,T055
+C0085271,self-destructive behavior,General,False,C0085271,T055
+C0085271,self destructive behavior,General,False,C0085271,T055
+C0457044,bothered by loud volume on radio,General,False,C0457044,T033
+C0457044,does not like to be touched,General,False,C0457044,T033
+C0457044,"tactile defensiveness (finger paints, playdough, shaving cream, etc.)",General,False,C0457044,T033
+C0457044,does not respond to pain appropriately,General,False,C0457044,T033
+C0457044,sensory intolerance,General,False,C0457044,T033
+C0031873,pica,General,False,C0031873,T048
+C0031873,craving unusual or nonfood items,General,False,C0031873,T048
+C0031873,eats abnormal objects,General,False,C0031873,T048
+C0031873,abnormal craving,General,False,C0031873,T048
+C0031873,inappropriate eating behavior,General,False,C0031873,T048
+CHIP1000209,"hyper- or hypo-reactivity to sensory input or unusual interest in sensory aspects of environment; (such as apparent indifference to pain/heat/cold, adverse response to specific sounds or textures, excessive smelling or touching of objects, fascination with lights or spinning objects).",General,False,CHIP1000209,
+CHIP1000209,hyper-reactivity to sensory input,General,False,CHIP1000209,
+C1855589,hypersensitive to stimuli,General,False,C1855589,T033
+C2163191,cry as hypersensitive to stimulus,General,False,C2163191,T033
+C0234241,indifference to pain,General,False,C0234241,T184
+C0424795,tolerant of heat,General,False,C0424795,T033
+C0344336,tolerant of cold,General,False,C0344336,T033
+C1827779,abnormal response to sound,General,False,C1827779,T033

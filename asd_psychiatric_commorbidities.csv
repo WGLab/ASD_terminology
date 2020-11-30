@@ -1,0 +1,34 @@
+﻿Entity,CUI,TUI
+Mood disorders,C0525045,T048
+Depressive disorder,C0011581,T048
+Major Depressive Disorder,C1269683,T048
+"Major depression, single episode",C0024517,T048
+Mental Depression,C0011570,T048
+Hypomanic personality disorder,C0338967,T048
+Manic Disorder,C0024713,T048
+Manic episode,C0349208,T048
+Cyclothymic Disorder,C0010598,T048
+Bipolar Disorder,C0005586,T048
+Bipolar I disorder,C0853193,T048
+Bipolar II disorder,C0236788,T048
+hypomanic; episode,C1396834,T048
+"Bipolar disorder, mixed",C2937260,T048
+mixed affective episode,C4290107,T048
+Schizophrenia,C0036341,T048
+Psychotic Disorders,C0033975,T048
+Anxiety Disorders,C0003469,T048
+Panic Disorder,C0030319,T048
+Separation Anxiety Disorder,C0003477,T048
+"Phobia, Social",C0031572,T048
+"Phobia, Specific",C0236801,T048
+anxiety generalized,C0262376,T048
+Generalized Anxiety Disorder,C0270549,T048
+Anxiety,C0003467,T048
+Obsessive-Compulsive Disorder,C0028768,T048
+"Disruptive, Impulse Control, and Conduct Disorders",C0021122,T048
+Attention deficit hyperactivity disorder,C1263846,T048
+Oppositional Defiant Disorder,C0029121,T048
+Adjustment Disorders,C0001546,T048
+Adjustment disorder with depressed mood,C0001539,T048
+Intellectual Disability,C3714756,T048
+Mental Retardation,C0025362,T048
