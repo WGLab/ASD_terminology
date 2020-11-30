@@ -1,8 +1,9 @@
 # ASD_terminology
 
-The following pipeline was used for the NER analysis. The files are provided so you can reproduce the results by downloading the [CLAMP, cTAKES, and MetaMap formatted predictions data here](https://drive.google.com/file/d/1ofvIcFK49TpWilzoZj5AzMXz0kEJW6vb/view?usp=sharing) and jumping directory to step 3) or 4).
+The following pipeline was used for the NER analysis. The files are provided so you can reproduce the results by downloading the [CLAMP, cTAKES, and MetaMap formatted prediction data here](https://drive.google.com/file/d/1eCLLxvbCbwZ0ewGfNITa_GyZkNf8-f_9/view?usp=sharing) and jumping to step 3) or 4). Use `python3 format.py --help` and `python3 results.py --help` to get more information.
 
-### 1) Label benchmark (BM) terms  
+### 1) Label benchmark (BM) terms 
+------
 
 **Label full-texts**  
 `python3 processing/label_bm.py 'pubmed_fulltexts_544' 'BM_labelled/full_text_labels_formatted.csv' 'BM_terms.csv' -p 10`
@@ -12,6 +13,7 @@ The following pipeline was used for the NER analysis. The files are provided so 
 
 
 ### 2) Format raw CLAMP, cTAKES, and MetaMap output  
+------
 
 **Format CLAMP**  
 `python3 format.py clamp 'clamp/clamp_output_full_text' 'clamp/clamp_results_full_text' pubmed_fulltexts_544 -p 10 -c clamp_cui_to_tui_map.txt`
@@ -26,7 +28,8 @@ The following pipeline was used for the NER analysis. The files are provided so 
 `python3 format.py metamap 'metamap/metamap_output_abstract' 'metamap/metamap_results_abstract' 'metamap/metamap_abstract' -b 'BM_terms_formatted.csv' -p 500`
 
 
-### 3) Compute results  
+### 3) Compute results and generate true positive, false positive, and false negative lists  
+------
 
 ### CLAMP results  
 
@@ -73,7 +76,8 @@ The following pipeline was used for the NER analysis. The files are provided so 
 `python3 results.py metamap 'metamap/metamap_results_abstract/metamap_preds.csv' 'metamap/metamap_results_abstract/metamap_labels.csv' 'statistics/filtered_metamap_statistics_abstract.txt' 'metamap/metamap_results_abstract' -f -r 'asd_psychiatric_commorbidities.csv'`
 
 
-### 4) Plot figures and generate tables  
+### 4) Plot figures and generate tables 
+------
 
 **Figure 1**  
 `generate_figures_NER_comparison.ipynb`
