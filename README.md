@@ -91,7 +91,7 @@ The following pipeline was used for the NER analysis. The files are provided so 
 **Supplemental Tables 4 and 5**  
 `true_positive_analysis.ipynb`
 
-### REFERENCE
+5) ### REFERENCE
 Please cite the following paper:
 
-Peng, J., Zhao, M., Havrilla, J. et al. Natural language processing (NLP) tools in extracting biomedical concepts from research articles: a case study on autism spectrum disorder. **BMC Med Inform Decis Mak** 20, 322 (2020). https://doi.org/10.1186/s12911-020-01352-2
+Peng, J., Zhao, M., Havrilla, J. et al. **Natural language processing (NLP) tools in extracting biomedical concepts from research articles: a case study on autism spectrum disorder**. BMC Med Inform Decis Mak 20, 322 (2020). https://doi.org/10.1186/s12911-020-01352-2
